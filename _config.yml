@@ -7,8 +7,7 @@ first_name: Natalia
 middle_name: M.
 last_name: Sikora
 email: nataliamsikora@hmail.com
-description: #> # the ">" symbol means to ignore newlines until "footer_text:"
-  A PhD Candidate in Artificial Medicine 
+description:   A PhD Candidate in Artificial Medicine 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
