@@ -30,5 +30,5 @@ A final year PhD candidate on AIMLAC programme (Artificial Intelligence, Machine
 -->
 
 <div style="text-align: center; padding: 50px; font-size: 35px; background-color: #f8d7da; color: black;">
-  <strong>This website is under construction</strong>
+  <strong>This website is under construction...</strong>
 </div>
