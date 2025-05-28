@@ -8,17 +8,17 @@
     "url": "",
     "summary": "Summary test",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
+      "address": "London",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "UK",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Natalia Sikora",
+        "url": "https://www.linkedin.com/in/natalia-sikora-190902177/"
       }
     ]
   },
