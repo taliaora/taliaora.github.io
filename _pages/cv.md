@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://www.linkedin.com/in/natalia-sikora-190902177/
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 5 
