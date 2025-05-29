@@ -1,4 +1,3 @@
-You can view my [LinkedIn page](https://www.linkedin.com/in/natalia-sikora-190902177/) for more information.
 ---
 layout: cv
 permalink: /cv/
