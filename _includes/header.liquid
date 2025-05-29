@@ -130,6 +130,45 @@
       </div>
     </div>
   </nav>
+<!-- Floating Image -->
+<style>
+  .floating-image {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 100px;
+    z-index: 9999;
+    pointer-events: none;
+    animation: floatAcross 12s linear infinite;
+  }
+
+  @keyframes floatAcross {
+    0% {
+      right: -150px;
+      top: 40px;
+    }
+    50% {
+      right: 50%;
+      top: 100px;
+    }
+    100% {
+      right: 100%;
+      top: 40px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .floating-image {
+      display: none;
+    }
+  }
+</style>
+
+<img
+  src="{{ '/assets/img/dog_floating.png' | relative_url }}"
+  alt="Flying Image"
+  class="floating-image"
+/>
   {% if site.enable_progressbar %}
     <!-- Scrolling Progress Bar -->
     <progress id="progress" value="0">
