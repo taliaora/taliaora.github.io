@@ -2,17 +2,14 @@
   "basics": {
     "name": "Natalia Sikora",
     "label": "PhD Candidate",
-    "image": "",
+    "image": " ",
     "email": "natalia.sikora.jobs@gmail.com",
-    "phone": "(912) 123-4567",
+    "phone": "",
     "url": "",
     "summary": "Summary test",
     "location": {
-      "address": "London",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "UK",
-      "region": " "
+      "city": "London",
+      "countryCode": "UK"
     },
     "profiles": [
       {
@@ -22,6 +19,19 @@
       }
     ]
   },
+    "education": [
+    {
+      "institution": "Swansea University",
+      "location": "Swansea",
+      "url": "https://cdt-aimlac.org/cdt-main.html",
+      "area": "AI, Physics, Medical Applications",
+      "studyType": "PhD",
+      "startDate": "2020-09",
+      "endDate": "2025-04",
+      "score": "Awaiting Viva",
+      "courses": ["x"]
+    }
+  ],
   "work": [
     {
       "name": "x",
@@ -45,19 +55,6 @@
       "highlights": ["march.", "x"]
     }
   ],
-  "education": [
-    {
-      "institution": "x",
-      "location": "x",
-      "url": "https://www.uzh.ch/",
-      "area": "x",
-      "studyType": "x",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "x",
-      "courses": ["x"]
-    }
-  ],
   "awards": [
     {
       "title": "x",
@@ -70,7 +67,7 @@
   "certificates": [
     {
       "name": "x",
-      "date": "x",
+      "date": "",
       "issuer": "x",
       "url": "x",
       "icon": "x"
@@ -84,7 +81,7 @@
     },
     {
       "name": "x",
-      "date": "x1",
+      "date": "",
       "issuer": "xy",
       "url": "x",
       "icon": "fa-solid fa-envelope"
