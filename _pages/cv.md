@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /You can view my [LinkedIn page](https://www.linkedin.com/in/natalia-sikora-190902177/) for more information/
+permalink: /https://www.linkedin.com/in/natalia-sikora-190902177//
 title: cv
 nav: true
 nav_order: 5 
