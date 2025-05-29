@@ -88,7 +88,7 @@
       "issuer": "xy",
       "url": "x",
       "icon": "fa-solid fa-envelope"
-    },
+    }
     
   ],
   "publications": [
@@ -105,7 +105,7 @@
       "releaseDate": "1905-03-18",
       "url": "",
       "summary": ""
-    },
+    }
     
   ],
   "skills": [
