@@ -4,7 +4,7 @@
     "label": "PhD Candidate",
     "image": "",
     "email": "natalia.sikora.jobs@gmail.com",
-    "phone": "(912) 123-4567",
+    "phone": "",
     "url": "",
     "summary": "Summary test",
     "location": {
@@ -70,7 +70,7 @@
   "certificates": [
     {
       "name": "x",
-      "date": "x",
+      "date": "",
       "issuer": "x",
       "url": "x",
       "icon": "x"
@@ -84,7 +84,7 @@
     },
     {
       "name": "x",
-      "date": "x1",
+      "date": "",
       "issuer": "xy",
       "url": "x",
       "icon": "fa-solid fa-envelope"
