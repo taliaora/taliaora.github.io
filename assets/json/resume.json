@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "About": {
     "name": "Natalia Sikora",
     "label": "PhD Candidate",
     "image": "",
@@ -8,11 +8,8 @@
     "url": "",
     "summary": "Summary test",
     "location": {
-      "address": "London",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "UK",
-      "region": " "
+      "city": "London",
+      "countryCode": "UK"
     },
     "profiles": [
       {
