@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: LEARNING WITH CHALLENGES | Understanding Through Data
+subtitle: LEARNING WITH Challenges | Understanding Through Data
 
 profile:
   align: right
