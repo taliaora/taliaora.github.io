@@ -17,7 +17,7 @@
       }
     ]
   },
-  "work": [
+  "_work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -158,13 +158,33 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Polish",
       "fluency": "Native speaker",
       "icon": ""
     },
-    {
+     {
       "language": "English",
+      "fluency": "Highly Proficient",
+      "icon": ""
+    },
+    {
+      "language": "French",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Independent User",
+      "icon": ""
+    },
+        {
+      "language": "Italian",
+      "fluency": "Independent User",
+      "icon": ""
+    },
+        {
+      "language": "Hebrew",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
