@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Learning With Challenges | Understanding Through Data
-subtitle: test
 profile:
   align: right
   image: prof_pic.jpg
