@@ -20,6 +20,19 @@ Hi! I'm Natalia. A PhD candidate awaiting my Viva. I recently finished my PhD pr
 
 I graduated from a University of Nottingham in 2020, with a BSc Hons in Biochemistry. Both, my PhD and my undergraduate degree provide me with a unique skillset, with a deep understanding of computational biology and AI applications in medicine. 
 
+During my PhD, I have published in Nature (co-author, bioinformatics), AAAI-25 B1 (first-author, multimodal data fusion, XAI, DL, clinical expert system). I am currently in the process of publishing 7 additional research papers. 
+
+I have a proven track record of working across all stages of the ML pipeline, including data collection, quality control, preprocessing, modelling, and reporting. Furthermore, I enjoy doing research, data analytics, and exploring applications of AI in society. To date, I had the honour of contributing to multiple charity projects delivering data-driven insights for social impact. I am experienced in project management (agile methodologies like scrum, kanban, teams up to 12 people), data modelling, and data engineering. In my work, I focus on creating a welcoming, honest, collaborative atmosphere and I bring a positive, team-oriented approach to fast-paced environments. 
+
+In my free time, you can find me hiking with my dog, hitting the gym, painting, horse riding, doing yoga, and practising krav maga. 
+
+This website is where you can find my blog posts, learn about my research, publications, various projects I participated in, and a selection of my art/photography!
+
+
+
+
+
+
 
 <!-- The sections below are commented out and will not be displayed -->
 <!-- 
