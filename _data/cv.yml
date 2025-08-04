@@ -110,8 +110,20 @@
       items:
         - Baseline correction, denoising, smoothing in complex systems
 - title: Languages
-  type: list
-  contents: Polish (native), English (highly proficient), French (fluent), German (independent), Italian (independent), Hebrew (basic)
+  type: table
+  contents:
+    - language: Polish
+      level: Native
+    - language: English
+      level: Highly Proficient
+    - language: French
+      level: Fluent
+    - language: German
+      level: Independent
+    - language: Italian
+      level: Independent
+    - language: Hebrew
+      level: Basic
 
 - title: Other Interests
   type: list
