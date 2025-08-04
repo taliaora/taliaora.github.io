@@ -45,7 +45,7 @@
       "institution": "Swansea University, Swansea, South Wales",
       "location": "Swansea, UK",
       "url": "https://cdt-aimlac.org/cdt-main.html",
-      "area": "AI",
+      "area": "AI in Medical Applications, Department of Physics",
       "studyType": "PhD Candidate",
       "startDate": "2020-09-01",
       "endDate": "2025-04-31",
@@ -67,11 +67,47 @@
   ],
   "awards": [
     {
+      "title": "Future Leaders Forum - Top 20 Polish Young Professionals",
+      "date": "2025",
+      "awarder": "The Polish Leaders' Foundation",
+      "url": "",
+      "summary": ""
+    },
+    {
       "title": "Fully Funded ESPRC PhD Scholarship (AIMLAC CDT)",
-      "date": "2020",
+      "date": "2020-2024",
       "awarder": "EXPRC",
       "url": "",
       "summary": ""
+    },
+    
+        {
+      "title": "Best Team Leader Award, DataAid Hackathon",
+      "date": "2022",
+      "awarder": "DataAid",
+      "url": "",
+      "summary": ""
+    },
+     {
+      "title": "Award of Appreciation for Professionalism, DataAid Hackathon",
+      "date": "2022",
+      "awarder": "DataAid",
+      "url": "",
+      "summary": ""
+    },
+      {
+      "title": "BBSRC research grant",
+      "date": "2019",
+      "awarder": "DataAid",
+      "url": "",
+      "summary": "Awarded a BBSRC research grant and a stipend for a project investigating EVs in medulloblastoma patients."
+    },
+    {
+      "title": "Recipient, Nationwide Polish Championships in Science (a research grant, a stipend, and an internship)",
+      "date": "2015",
+      "awarder": "E(x)plory Foundation",
+      "url": "",
+      "summary": "A research project in Nencki Institute in Warsaw."
     }
   ],
   "_certificates": [
