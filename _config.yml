@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Sparse Signals by Natalia Sikora # blog_name will be displayed in your blog page
-blog_description: " Notes from a PhD Candidate in AI & and the occasional debug-induced epiphany. "                                                                                                                                Explainable models · financial analysis · single-cell genomics · medical data · research highlights "
+blog_description: " Notes from a PhD Candidate in AI & and the occasional debug-induced epiphany.                                                                                                                                Explainable models · financial analysis · single-cell genomics · medical data · research highlights "
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
