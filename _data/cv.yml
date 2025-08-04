@@ -1,0 +1,116 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Natalia M. Sikora
+    - name: Location
+      value: London, United Kingdom (open to relocation)
+    - name: Email
+      value: natalia.sikora.jobs@gmail.com
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/natalia-sikora-190902177/
+    - name: Languages
+      value: Polish (native), English (highly proficient), French (fluent), German (independent), Italian (independent), Hebrew (basic)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Candidate in AI and Physics
+      institution: Swansea University, UK (AIMLAC CDT)
+      year: 2020 – 2025
+      description:
+        - Thesis on AI-driven individualized outcome prediction in complex systems.
+        - UKRI CDT scholarship in AI, ML & Advanced Computing.
+        - Applied transfer learning and denoising GANs to improve sensitivity and specificity by over 10%.
+    - title: Visiting Student Researcher
+      institution: University of Oxford, Oxford, UK
+      year: 2022 – 2024
+      description:
+        - Deep learning research using reinforcement learning and GNNs.
+        - Co-authored a Nature paper and contributed to 5 other projects.
+    - title: BSc (Hons) in Biochemistry
+      institution: University of Nottingham, Nottingham, UK
+      year: 2017 – 2020
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Data Study Group Researcher
+      institution: The Alan Turing Institute
+      year: May 2024
+      description:
+        - Built customer-segmentation models for Mastercard using XGBoost and fairness metrics.
+        - Delivered explainable AI insights using SHAP and LIME.
+    - title: Teaching Assistant / Lecturer
+      institution: Swansea University
+      year: 2020 – 2024
+      description:
+        - Delivered lectures and workshops in AI, Cryptography, and Machine Learning.
+        - Taught across Medicine, Computer Science, and Physics departments.
+    - title: Tutor – Introduction to AI in Business
+      institution: University of Oxford, Oriel College (Oxford Study Abroad Programme)
+      year: 2022 – 2023
+      description:
+        - Designed and taught original content for tutorial students.
+    - title: Team Leader – Synergy Essex Project
+      institution: DataAid (for Ministry of Justice & RASS)
+      year: 2021 – 2022
+      description:
+        - Led analysis of sexual violence impact and crime reporting.
+        - Produced evidence for policy change.
+    - title: Project Lead – Fairtrade Foundation
+      institution: DataAid
+      year: 2020 – 2021
+      description:
+        - Directed analysis of Fairtrade economic data using MCMC techniques.
+        - Managed 16 analysts and handled client communications.
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: ColonScopeX – Explainable Multimodal AI for Early Diagnosis
+      year: 2025
+      description: Developed an explainable AI system for colorectal cancer diagnosis integrating structured and spectral data. Available on arXiv.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Future Leaders Forum – Top 20 Polish Young Professionals
+    - year: 2024
+      items:
+        - Best Research Poster Award, Swansea PGR Conference
+    - year: 2022
+      items:
+        - Best Team Leader Award, DataAid Hackathon
+        - Award for Professionalism, DataAid Hackathon
+    - year: 2020 – 2025
+      items:
+        - Fully Funded EPSRC PhD Scholarship (AIMLAC CDT)
+    - year: 2019
+      items:
+        - BBSRC Research Grant and Stipend (EVs in Medulloblastoma)
+    - year: 2015
+      items:
+        - Winner, Nationwide Polish Science Championships (E(x)plory)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Machine Learning & AI
+      items:
+        - Explainable AI, fairness metrics, ethics in AI
+        - GNNs, transformers, LLMs
+    - title: Biomedical Applications
+      items:
+        - Spectral signal analysis in diagnostics
+        - Multimodal data fusion for personalized medicine
+    - title: Signal Processing
+      items:
+        - Baseline correction, denoising, smoothing in complex systems
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Classical piano, hiking, creative writing, languages, science communication
