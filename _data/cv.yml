@@ -9,8 +9,6 @@
       value: natalia.sikora.jobs@gmail.com
     - name: LinkedIn
       value: https://www.linkedin.com/in/natalia-sikora-190902177/
-    - name: Languages
-      value: Polish (native), English (highly proficient), French (fluent), German (independent), Italian (independent), Hebrew (basic)
 
 - title: Education
   type: time_table
@@ -76,6 +74,7 @@
   type: time_table
   contents:
     - year: 2025
+
       items:
         - Future Leaders Forum – Top 20 Polish Young Professionals
     - year: 2024
@@ -99,6 +98,7 @@
   type: nested_list
   contents:
     - title: Machine Learning & AI
+
       items:
         - Explainable AI, fairness metrics, ethics in AI
         - GNNs, transformers, LLMs
@@ -109,6 +109,9 @@
     - title: Signal Processing
       items:
         - Baseline correction, denoising, smoothing in complex systems
+- title: Languages
+  type: list
+  contents: Polish (native), English (highly proficient), French (fluent), German (independent), Italian (independent), Hebrew (basic)
 
 - title: Other Interests
   type: list

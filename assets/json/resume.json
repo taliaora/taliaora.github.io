@@ -1,7 +1,8 @@
 {
   "basics": {
     "name": "Natalia M. Sikora",
-    "label": "PhD Candidate in AI and Physics",
+
+    "label": "PhD Candidate in Medical AI, Department of Physics",
     "image": "",
     "email": "natalia.sikora.jobs@gmail.com",
     "url": "https://www.linkedin.com/in/natalia-sikora-190902177/",
@@ -9,6 +10,7 @@
     "location": {
       "city": "London",
       "countryCode": "GB"
+
     },
     "profiles": [
       {
@@ -19,6 +21,7 @@
   },
   "_work": [
     {
+
       "name": "The Alan Turing Institute",
       "position": "Data Study Group Researcher",
       "url": "https://www.turing.ac.uk",
@@ -52,10 +55,12 @@
       "highlights": [
         "Tailored sessions for international students with diverse academic backgrounds."
       ]
+
     }
   ],
   "_volunteer": [
     {
+
       "organization": "DataAid",
       "location": "UK (remote & hybrid)",
       "position": "Team Leader, Synergy Essex",
@@ -80,39 +85,83 @@
         "Implemented Markov Chain Monte Carlo methods.",
         "Coordinated cross-functional team of 16 analysts."
       ]
+
     }
   ],
   "education": [
     {
-      "institution": "Swansea University",
+
+      "institution": "Swansea University, Swansea, South Wales",
       "location": "Swansea, UK",
-      "url": "https://cdt-aimlac.org",
+      "url": "https://cdt-aimlac.org/cdt-main.html",
       "area": "AI in Medical Applications, Department of Physics",
       "studyType": "PhD Candidate",
       "startDate": "2020-09-01",
-      "endDate": "2025-04-30",
+      "endDate": "2025-04-31",
       "score": "Awaiting Viva"
     },
-    {
-      "institution": "University of Oxford",
-      "location": "Oxford, UK",
-      "url": "https://www.ox.ac.uk",
-      "area": "AI and Deep Learning (Visiting Student Researcher)",
-      "studyType": "Visiting Researcher",
-      "startDate": "2022-09-01",
-      "endDate": "2024-09-01"
-    },
-    {
-      "institution": "University of Nottingham",
+        {
+      "institution": "University of Nottingham, Nottingham, UK",
       "location": "Nottingham, UK",
-      "url": "https://www.nottingham.ac.uk",
-      "area": "Biochemistry BSc (Hons)",
-      "studyType": "Undergraduate",
+      "url": "https://www.nottingham.ac.uk/",
+      "area": "Biochemistry BSc Hons",
+      "studyType": "Undergraduate degree",
       "startDate": "2017-09-01",
-      "endDate": "2020-06-30"
+      "endDate": "2020-06-31"
+    },
+      {
+      "institution": "IB World School"
+      
     }
   ],
   "awards": [
+    {
+      "title": "Future Leaders Forum - Top 20 Polish Young Professionals",
+      "date": "2025",
+      "awarder": "The Polish Leaders' Foundation",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Fully Funded ESPRC PhD Scholarship (AIMLAC CDT)",
+      "startDate": "2017-09-01",
+      "endDate": "2020-06-31"
+      "awarder": "EPSRC",
+      "url": "",
+      "summary": ""
+    },
+    
+        {
+      "title": "Best Team Leader Award, DataAid Hackathon",
+      "date": "2022",
+      "awarder": "DataAid",
+      "url": "",
+      "summary": ""
+    },
+     {
+      "title": "Award of Appreciation for Professionalism, DataAid Hackathon",
+      "date": "2022",
+      "awarder": "DataAid",
+      "url": "",
+      "summary": ""
+    },
+      {
+      "title": "BBSRC research grant",
+      "date": "2019",
+      "awarder": "DataAid",
+      "url": "",
+      "summary": "Awarded a BBSRC research grant and a stipend for a project investigating EVs in medulloblastoma patients."
+    },
+    {
+      "title": "Recipient, Nationwide Polish Championships in Science (a research grant, a stipend, and an internship)",
+      "date": "2015",
+      "awarder": "E(x)plory Foundation",
+      "url": "",
+      "summary": "A research project in Nencki Institute in Warsaw."
+    }
+  ],
+  "_certificates": [
+
     {
       "title": "Future Leaders Forum - Top 20 Polish Young Professionals",
       "date": "2025",
@@ -156,6 +205,7 @@
       "summary": "Received research grant, stipend, and internship at Nencki Institute, Warsaw."
     }
   ],
+
   "_certificates": [],
   "_publications": [
     {
@@ -164,6 +214,7 @@
       "releaseDate": "2025-04-16",
       "url": "",
       "summary": "Co-authored research on transcriptional reprogramming in AML."
+
     },
     {
       "name": "ColonScopeX: Leveraging Explainable Expert Systems for Early Diagnosis of Colorectal Cancer",
@@ -208,6 +259,7 @@
         "HTML"
       ]
     },
+
     {
       "name": "Signal Processing",
       "level": "Advanced",
@@ -221,32 +273,47 @@
   "languages": [
     {
       "language": "Polish",
+
       "fluency": "Native speaker"
+
     },
-    {
+     {
       "language": "English",
-      "fluency": "Highly Proficient"
+
+      "fluency": "Highly Proficient",
+      "icon": ""
     },
     {
       "language": "French",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
+      "icon": ""
     },
     {
       "language": "German",
-      "fluency": "Independent User"
+      "fluency": "Independent User",
+      "icon": ""
     },
-    {
+        {
       "language": "Italian",
-      "fluency": "Independent User"
+      "fluency": "Independent User",
+      "icon": ""
     },
-    {
+        {
       "language": "Hebrew",
-      "fluency": "Basic"
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
+ 
+
   "_interests": [
     {
       "name": "AI for Healthcare",
       "keywords": [
         "Explainable AI",
-        "Signal Processing",
+        "Signal Processing"]
+
+    }
+  ]
+}
+
