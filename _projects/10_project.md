@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 8
-description: The Fairtrade Foundation for DataAid
+title: The Fairtrade Foundation for DataAid
+description: Analysis of Premium Impact on Coconut Farms in Ivory Coast
 img: assets/img/9.jpg
 importance: 2
 category: work
