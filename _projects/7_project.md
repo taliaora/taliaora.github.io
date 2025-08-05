@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 7
+title: Personalised Medicine Approaches in Ovarian Cancer
 description: with background image
 img: assets/img/4.jpg
 importance: 1
