@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 8
-description: Market Dynamics and Price Formation in Grid Energy Systems
+title: Market Dynamics and Price Formation in Grid Energy Systems
+description: Time Series Forcasting Project
 img: assets/img/9.jpg
 importance: 2
 category: work
