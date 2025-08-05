@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testing project 1
+title: Mastercard at The Alan Turing Institute
 description: with background image
 img: assets/img/12.jpg
 importance: 1
