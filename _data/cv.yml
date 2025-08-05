@@ -111,8 +111,12 @@
 - title: Languages
   type: table
   contents:
-    - [Polish — Native, English — Highly Proficient, French — Fluent]
-    - [German — Independent, Italian — Independent, Hebrew — Basic]
+  - [Polish, Native]
+  - [English, Highly Proficient]
+  - [French, Fluent]
+  - [German, Independent]
+  - [Italian, Independent]
+  - [Hebrew, Basic]
 - title: Other Interests
   type: list
   contents:
