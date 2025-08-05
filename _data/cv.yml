@@ -110,19 +110,15 @@
         - Baseline correction, denoising, smoothing in complex systems
 - title: Languages
   type: table
-  contents: >
-    <table style="width:100%; text-align:left;">
-      <tr>
-        <td><strong>Polish</strong> — Native</td>
-        <td><strong>English</strong> — Highly Proficient</td>
-        <td><strong>French</strong> — Fluent</td>
-      </tr>
-      <tr>
-        <td><strong>German</strong> — Independent</td>
-        <td><strong>Italian</strong> — Independent</td>
-        <td><strong>Hebrew</strong> — Basic</td>
-      </tr>
-    </table>
+    contents: >
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+      <div style="flex: 1 1 30%;"><strong>Polish</strong> — Native</div>
+      <div style="flex: 1 1 30%;"><strong>English</strong> — Highly Proficient</div>
+      <div style="flex: 1 1 30%;"><strong>French</strong> — Fluent</div>
+      <div style="flex: 1 1 30%;"><strong>German</strong> — Independent</div>
+      <div style="flex: 1 1 30%;"><strong>Italian</strong> — Independent</div>
+      <div style="flex: 1 1 30%;"><strong>Hebrew</strong> — Basic</div>
+    </div>
 
 - title: Other Interests
   type: list
