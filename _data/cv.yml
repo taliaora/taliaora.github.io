@@ -110,8 +110,6 @@
         - Baseline correction, denoising, smoothing in complex systems
 - title: Languages
   type: table
- 
-  type: table
   contents:
     - language: Polish
       level: Native
