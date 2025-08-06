@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Managing Multi-Drug Interactions in Clinical Workflows
+title: Drug Interactions in Polypharmacy Scenarios 
 description: Managing Multi-Drug Interactions in Clinical Workflows
 img: assets/img/1.jpg
 importance: 3
