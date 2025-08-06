@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI in Education: Bridging Access, Equity, and Understanding
-description: A project focussed on children's education. AI in schools.  
+description: A project focussed on educating kids. AI in schools.  
 img: assets/img/6.jpg
 importance: 4
 category: fun
