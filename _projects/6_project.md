@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Paper recommender system
+description: Find a potential collaborator in a large CS conference
 img:
 importance: 4
 category: fun
