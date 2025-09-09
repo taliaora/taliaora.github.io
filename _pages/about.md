@@ -8,9 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Based in:</p>
-    <p>London, UK </p>
-    <p>Office location</p>
+    <p>Based in:       </p>
+    <p>London, UK        </p>
+    <p>Office location:       </p>
     <p>606 Vivian Tower,</p>
     <p>Department of Physics, Singleton Campus,</p>
     <p>Swansea, South Wales</p>
