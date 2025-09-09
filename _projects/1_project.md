@@ -22,6 +22,16 @@ XYZ
 <div class="caption text-center mb-4">
   <strong>Overall, a fabulous team and I got to present our results!</strong>
 </div>
+<p>
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/1719097801562.jpg"
+     title="example image"
+     class="img-fluid rounded z-depth-1 float-start me-3 mb-3"
+     style="max-width:33%;"
+  %}
+  <strong>Tackling Fairness in Financial AI: Reflections from the Alan Turing Institute’s Data Study Group Challenge</strong>
+</p>
 
 <!-- Begin body copy with floated images intertwined in text -->
 <p>
