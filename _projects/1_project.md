@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Mastercard at The Alan Turing Institute
-description: with background image
-img: assets/img/12.jpg
+description: A Report on the Data Study Group
+img: assets/img/mastercard_alan_turing.jpg
 importance: 1
 category: work
 related_publications: true
