@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>Based in:       </p>
     <p>London, UK        </p>
-    <p> _________</p>
+    <p> ___________________________</p>
     <p>Office location:       </p>
     <p>606 Vivian Tower,</p>
     <p>Department of Physics, Singleton Campus,</p>
