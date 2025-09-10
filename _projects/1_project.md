@@ -8,7 +8,8 @@ category: work
 related_publications: true
 ---
 
-XYZ
+<time datetime="2024-05">May 2024</time>
+
 
 <!-- Full-width hero image -->
 <div class="container-fluid px-0 my-3">
@@ -47,15 +48,6 @@ XYZ
   %}
 </div>
 
-here here here 
-{% include figure.liquid 
-   loading="eager" 
-   path="assets/img/1719097801562.jpg" 
-   title="example image" 
-   class="rounded z-depth-1 float-start me-3 mb-3" 
-   style="max-width:33%;" 
-%}
-
 
 
 
@@ -76,13 +68,6 @@ here here here
   Below, you can find my summary.
 </p>
 
-{% include figure.liquid 
-   loading="eager" 
-   path="assets/img/1719177582130.jpg" 
-   title="example image" 
-   class="rounded z-depth-1 float-end ms-3 mb-3" 
-   style="max-width:33%;" 
-%}
 
 <p><strong>The Challenge</strong></p>
 
