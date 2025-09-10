@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The Fairtrade Foundation for DataAid
-description: Analysis of Premium Impact on Coconut Farms in Ivory Coast
-img: assets/img/9.jpg
+description: Analysis of Premium Impact on Cocoa Farms in Ivory Coast
+img: assets/img/coco.jpg
 importance: 2
 category: work
 giscus_comments: true
