@@ -22,6 +22,32 @@ XYZ
 <div class="caption text-center mb-4">
   <strong>Overall, a fabulous team and I got to present our results!</strong>
 </div>
+<style>
+  .side-figure { float: left; width: 33%; margin: 0 1rem 1rem 0; }
+  .side-figure.right { float: right; margin: 0 0 1rem 1rem; }
+  @media (max-width: 768px) {
+    .side-figure, .side-figure.right { float: none; width: 100%; margin: 0 0 1rem 0; }
+  }
+</style>
+<div class="side-figure">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/1719097801562.jpg"
+     title="example image"
+     class="img-fluid rounded z-depth-1 w-100"
+  %}
+</div>
+
+<div class="side-figure right">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/1719177582130.jpg"
+     title="example image"
+     class="img-fluid rounded z-depth-1 w-100"
+  %}
+</div>
+
+here here here 
 {% include figure.liquid 
    loading="eager" 
    path="assets/img/1719097801562.jpg" 
