@@ -30,23 +30,6 @@ related_publications: true
     .side-figure, .side-figure.right { float: none; width: 100%; margin: 0 0 1rem 0; }
   }
 </style>
-<div class="side-figure">
-  {% include figure.liquid
-     loading="eager"
-     path="assets/img/1719097801562.jpg"
-     title="example image"
-     class="img-fluid rounded z-depth-1 w-100"
-  %}
-</div>
-
-<div class="side-figure right">
-  {% include figure.liquid
-     loading="eager"
-     path="assets/img/1719177582130.jpg"
-     title="example image"
-     class="img-fluid rounded z-depth-1 w-100"
-  %}
-</div>
 
 
 
@@ -68,6 +51,14 @@ related_publications: true
   Below, you can find my summary.
 </p>
 
+<div class="side-figure">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/1719097801562.jpg"
+     title="example image"
+     class="img-fluid rounded z-depth-1 w-100"
+  %}
+</div>
 
 <p><strong>The Challenge</strong></p>
 
@@ -119,6 +110,15 @@ related_publications: true
   <li>Consider whether including sensitive features could improve fairness under certain definitions, rather than assuming that “fairness through unawareness” is always best</li>
   <li>Monitor fairness throughout the model development process, not only at the point of deployment</li>
 </ul>
+
+<div class="side-figure right">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/1719177582130.jpg"
+     title="example image"
+     class="img-fluid rounded z-depth-1 w-100"
+  %}
+</div>
 
 <p>
   
