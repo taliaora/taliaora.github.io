@@ -15,7 +15,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-   (Image sourced from: www.efpia.eu ) This image can also have a caption. It's like magic.
+   Image sourced from: www.efpia.eu 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
