@@ -10,6 +10,20 @@ giscus_comments: true
 
 <time datetime="2021-01">Jan 2021</time>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2U2I6LORVZPR7ISVJDC3SYRQ4U.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Fairtrade offers Ivory Coast cocoa farmers a range of programmes and initiatives.
+</div>
+
+
+Ivory Coast (Côte d'Ivoire) is the world's leading cocoa producer, accounting for a significant portion of global production and exports. However, the sector faces severe challenges from adverse hydro-climatic conditions, including damaging rains and Harmattan winds, which have led to decreased yields and significant price surges in recent years.
+
+Fairtrade offers Ivory Coast cocoa farmers improved incomes, support for community projects, and financial stability by guaranteeing a minimum price and providing a Fairtrade Premium.
+
 I spent 4 months working on a project with other data scientists, attempting to understand how The Fairtrade Foundation affects the lifes of local farming communities. 
 
 In the final Hackathon event, I was lucky enough to manage my assigned team members to turn cocoa farm data into practical insight. Below we share what we set out to do, the data we used, the highlights from our analysis, and what we delivered.
