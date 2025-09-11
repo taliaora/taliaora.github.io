@@ -16,7 +16,7 @@ Early detection is the key to survival when it comes to colorectal cancer (CRC),
     </div>
 </div>
 <div class="caption">
-    Image sourced from outschool.com
+    Figure obtained from Sikora et al. 2025, AAAI-25 B1
 </div>
 
 ## Introducing ColonScopeX
