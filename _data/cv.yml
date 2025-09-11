@@ -117,25 +117,15 @@
         - Baseline correction, denoising, smoothing in complex systems
 - title: Languages
   type: table
+  headers: [Language, Level]
   contents:
-    - data:
-        - Polish
-        - Native
-    - data:
-        - English
-        - Highly Proficient
-    - data:
-        - French
-        - Fluent
-    - data:
-        - German
-        - Independent
-    - data:
-        - Italian
-        - Independent
-    - data:
-        - Hebrew
-        - Basic
+    - data: [Polish, Native]
+    - data: [English, Highly Proficient]
+    - data: [French, Fluent]
+    - data: [German, Independent]
+    - data: [Italian, Independent]
+    - data: [Hebrew, Basic]
+
 - title: Other Interests
   type: list
   contents:
