@@ -2,7 +2,7 @@
 layout: page
 title: Market Dynamics and Price Formation in Grid Energy Systems
 description: Time Series Forcasting Project
-img: assets/img/9.jpg
+img: assets/img/wind.jpg
 importance: 2
 category: work
 giscus_comments: true
