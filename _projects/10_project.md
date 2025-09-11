@@ -66,7 +66,7 @@ All processing took place in a secure HPC environment, with no identifying field
 </div>
 
 Prior to the Hackathon event, we got to explore the dataset, establishing the major trends. One of the observations was the impact of the civil war. 
-The ivory coast wars caused significant disruptions to cocoa production by displacing plantation workers, leading to unharvested crops and damaged yields, and by creating market volatility. The conflicts were fueled by economic grievances, including competition over cocoa-derived wealth and the land rights of migrant farmers, further destabilizing the cocoa supply chain. Because of this, drafint appropriate questions for the Hackathon event was crucial. 
+The Ivory Coast wars caused significant disruptions to cocoa production by displacing plantation workers, leading to unharvested crops and damaged yields, and by creating market volatility. The conflicts were fueled by economic grievances, including competition over cocoa-derived wealth and the land rights of migrant farmers, further destabilizing the cocoa supply chain. Because of the Fairtrade and a complex situation in the area, drafing appropriate questions for the Hackathon event was crucial. 
 
 
 ## Day 1 — rapid discovery and analysis
