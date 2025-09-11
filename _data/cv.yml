@@ -33,9 +33,9 @@
   type: time_table
   contents:
     - title: Data Scientist
-        institution: Freelance
-        year: June 2025 - current
-        description:
+      institution: Freelance
+      year: June 2025 - current
+      description:
           - Time series analysis.
           - Signal preprocessing.
           - Medical datasets.
