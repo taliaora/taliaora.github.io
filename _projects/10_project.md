@@ -5,7 +5,7 @@ description: Analysis of Premium Impact on Cocoa Farms in Ivory Coast
 img: assets/img/coco.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 <time datetime="2021-01">Jan 2021</time>
@@ -24,24 +24,11 @@ Ivory Coast (Côte d'Ivoire) is the world's leading cocoa producer, accounting f
 
 Fairtrade offers Ivory Coast cocoa farmers improved incomes, support for community projects, and financial stability by guaranteeing a minimum price and providing a Fairtrade Premium.
 
+DataAid, a project I worked for, offered The Fairtrade Foundation an insight into the datasets they owe, adn we ended up working on a project related to cocoa farming. 
 I spent 4 months working on a project with other data scientists, attempting to understand how The Fairtrade Foundation affects the lifes of local farming communities. 
 
 In the final Hackathon event, I was lucky enough to manage my assigned team members to turn cocoa farm data into practical insight. Below we share what we set out to do, the data we used, the highlights from our analysis, and what we delivered.
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/cocoa_1.jpg" title="Cocoa smallholders and plots" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/cocoa_2.jpg" title="Beans, fermentation and quality checks" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/cocoa_3.jpg" title="Co-operative collection and transport" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  From field to co-operative: snapshots of the cocoa value chain we considered in our analysis.
-</div>
 
 ## Why this mattered
 
@@ -71,12 +58,10 @@ All processing took place in a secure HPC environment, with no identifying field
   <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/coco.jpg" title="Seasonal patterns in production and premiums" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/coco.jpg" title="Open rainfall and temperature indices" class="img-fluid rounded z-depth-1" %}
-  </div>
+  
 </div>
 <div class="caption">
-  2/3 + 1/3 layout: seasonality in production and premiums, alongside simple weather indices used in the exploratory models.
+  Seasonality in production and premiums, alongside simple weather indices seemed most relevant. 
 </div>
 
 Prior to the Hackathon event, we got to explore the dataset, establishing the major trends. One of the observations was the impact of the civil war. 
