@@ -32,6 +32,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Scientist
+        institution: Freelance
+        year: June 2025 - current
+        description:
+          - Time series analysis.
+          - Signal preprocessing.
+          - Medical datasets.
     - title: Data Study Group Researcher
       institution: The Alan Turing Institute
       year: May 2024
