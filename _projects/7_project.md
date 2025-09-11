@@ -16,7 +16,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-   Image sourced from: www.efpia.eu 
+  Personalised medicine is the opposite approach to one size fits all. Image sourced from: www.efpia.eu 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
