@@ -8,6 +8,9 @@ importance: 1
 category: work
 related_publications: true
 ---
+
+*Published: {{ page.date | date: "%-d %B %Y" }}*
+
 High-grade serous ovarian cancer (HGSOC) remains one of the most lethal gynaecologic malignancies, with poor survival rates and few effective treatments. Rather than being driven by a high mutational load, HGSOC progression is often governed by epigenetic dysregulation and enhancer reprogramming, processes that foster tumour plasticity and therapeutic resistance. These enhancer and super-enhancer elements represent critical levers for tailoring treatment to an individual patient’s tumour biology.
 
 One of the promises in treatment of HGSOC is Personalised medicine.
