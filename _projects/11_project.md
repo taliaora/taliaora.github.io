@@ -2,7 +2,7 @@
 layout: page
 title: Early Cancer Detection from Multimodal Datasets
 description: Focusing on colorectal cancer and gut health
-img: assets/img/9.jpg
+img: assets/img/e62ee33e-de0b-4733-8cb9-6201d8248a3e.jpg
 importance: 2
 category: work
 giscus_comments: true
