@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stock Recommendation System
-description: Hobbyist Investing: A Brief Summary
+description: Hobbyist Investing. A Brief Summary
 img: assets/img/stock.jpg
 importance: 3
 category: fun
