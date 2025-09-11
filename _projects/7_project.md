@@ -2,6 +2,7 @@
 layout: page
 title: Personalised Medicine Approaches in Ovarian Cancer
 description: with a focus on HGSOC
+date: 2025-09-01
 img: assets/img/personalised-medicine.jpg
 importance: 1
 category: work
