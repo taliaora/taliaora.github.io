@@ -118,18 +118,24 @@
 - title: Languages
   type: table
   contents:
-    - language: Polish
-      level: Native
-    - language: English
-      level: Highly Proficient
-    - language: French
-      level: Fluent
-    - language: German
-      level: Independent
-    - language: Italian
-      level: Independent
-    - language: Hebrew
-      level: Basic
+    - data:
+        - Polish
+        - Native
+    - data:
+        - English
+        - Highly Proficient
+    - data:
+        - French
+        - Fluent
+    - data:
+        - German
+        - Independent
+    - data:
+        - Italian
+        - Independent
+    - data:
+        - Hebrew
+        - Basic
 - title: Other Interests
   type: list
   contents:
