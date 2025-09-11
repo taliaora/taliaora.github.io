@@ -2,7 +2,7 @@
 layout: page
 title: Paper recommender system
 description: Find a potential collaborator in a large CS conference
-img:
+img: assets/img/NEURIPS_poster.jpg
 importance: 4
 category: fun
 ---
