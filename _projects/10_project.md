@@ -24,7 +24,8 @@ Ivory Coast (Côte d'Ivoire) is the world's leading cocoa producer, accounting f
 
 Fairtrade offers Ivory Coast cocoa farmers improved incomes, support for community projects, and financial stability by guaranteeing a minimum price and providing a Fairtrade Premium.
 
-DataAid, a project I worked for, offered The Fairtrade Foundation an insight into the datasets they owe, adn we ended up working on a project related to cocoa farming. 
+DataAid, a programme I worked for, offered The Fairtrade Foundation an insight into the datasets they owed, which resulted in our team working on a project related to cocoa farming. 
+
 I spent 4 months working on a project with other data scientists, attempting to understand how The Fairtrade Foundation affects the lifes of local farming communities. 
 
 In the final Hackathon event, I was lucky enough to manage my assigned team members to turn cocoa farm data into practical insight. Below we share what we set out to do, the data we used, the highlights from our analysis, and what we delivered.
