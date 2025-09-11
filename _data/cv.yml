@@ -119,10 +119,10 @@
 - title: Languages
   type: nested_list
   contents:
-    - title: Advanced and Native
+    - title: Advanced | Native
       items:
-        - Polish - Native
-        - English - Advanced
+        - Polish 
+        - English
     - title: Fluent
       items:
         - French
