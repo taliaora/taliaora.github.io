@@ -115,28 +115,25 @@
     - title: Signal Processing
       items:
         - Baseline correction, denoising, smoothing in complex systems
-- title: Languages
-  type: table
-  headers: [Language, Level]
-  contents:
-    - data: [Polish, Native]
-    - data: [English, Highly Proficient]
-    - data: [French, Fluent]
-    - data: [German, Independent]
-    - data: [Italian, Independent]
-    - data: [Hebrew, Basic]
     
-- title: Academic Interests
+- title: Languages
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Advanced and Native
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Polish - Native
+        - English - Advanced
+    - title: Fluent
       items:
-        - Description 1.
-        - Description 2.
+        - French
+    - title: Independent 
+      items:
+        - German 
+        - Italian 
+    - title: Basic
+      items:
+        - Hebrew
+
 
 
 - title: Other Interests
