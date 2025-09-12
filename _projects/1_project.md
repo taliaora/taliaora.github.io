@@ -3,12 +3,14 @@ layout: page
 title: Mastercard at The Alan Turing Institute
 description: A Report on the Data Study Group
 img: assets/img/mastercard_alan_turing.jpg
+date: 2025-05-25
 importance: 1
 category: work
 related_publications: true
 ---
 
-<time datetime="2024-05">May 2024</time>
+
+*Published: {{ page.date | date: "%-d %B %Y" }}*
 
 
 <!-- Full-width hero image -->
