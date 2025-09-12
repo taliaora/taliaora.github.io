@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SERICC for DataAid
-description: a project with a background image and giscus comments
+description: A project presented to The Ministry of Justice
 img: assets/img/project_help.jpg
 importance: 2
 date: 2022-05-05
