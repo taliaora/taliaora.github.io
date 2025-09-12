@@ -3,9 +3,12 @@ layout: page
 title: Paper recommender system
 description: Find a potential collaborator in a large CS conference
 img: assets/img/NEURIPS_poster.jpg
+date: 2025-07-30
 importance: 4
 category: fun
 ---
+
+*Published: {{ page.date | date: "%-d %B %Y" }}*
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
