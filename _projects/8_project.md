@@ -4,9 +4,11 @@ title: Market Dynamics and Price Formation in Grid Energy Systems
 description: Time Series Forcasting Project
 img: assets/img/wind.jpg
 importance: 2
+date: 2020-05-25
 category: work
 giscus_comments: true
 ---
+*Published: {{ page.date | date: "%-d %B %Y" }}*
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
