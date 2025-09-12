@@ -4,11 +4,12 @@ title: The Fairtrade Foundation for DataAid
 description: Analysis of Premium Impact on Cocoa Farms in Ivory Coast
 img: assets/img/coco.jpg
 importance: 2
+date: 2021-01-21
 category: work
 giscus_comments: false
 ---
 
-<time datetime="2021-01">Jan 2021</time>
+*Published: {{ page.date | date: "%-d %B %Y" }}*
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
