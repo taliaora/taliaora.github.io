@@ -22,25 +22,15 @@ category: fun
 *Published: {{ page.date | date: "%-d %B %Y" }}*
 
 # COMING SOON
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid
-         loading="eager"
-         path="assets/img/stocks.jpg"
-         title="example image"
-         class="img-fluid rounded z-depth-1 half-width-img" %}
-  </div>
-</div>
-<div class="caption">
-    The performance of my portfolio since I started investing.
-</div>
-
 
 <div style="width:50%; margin:2rem auto; text-align:center;">
   {% include figure.liquid
      loading="eager"
-     path="assets/img/1719097801562.jpg"
+     path="assets/img/stocks.jpg"
      title="example image"
      class="img-fluid rounded z-depth-1 w-100"
   %}
+</div>
+<div class="caption">
+    The performance of my portfolio since I started investing.
 </div>
