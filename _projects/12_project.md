@@ -11,6 +11,30 @@ giscus_comments: false
 *Published: {{ page.date | date: "%-d %B %Y" }}*
 
 # COMING SOON ...
+<style>
+/* This CSS applies only to this page */
+.half-width-img img {
+  width: 50% !important;
+  max-width: 50% !important;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+</style>
+
+
+
+<div style="width:50%; margin:2rem auto; text-align:center;">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/SE_CO_image.jpg"
+     title="example image"
+     class="img-fluid rounded z-depth-1 w-100"
+  %}
+</div>
+<div class="caption">
+    Synergy Essex is a partnership of r. and s. abuse centres in Essex. 
+</div>
 
 In recent years, enhancer reprogramming has been identified as a driver of carcinogenesis. Multiple reseach papers showed that abberrant transciptional programs are required in malignant cells, and that their targeting presents a promising therapeutic strategy. Nonetheless, simply choosing "the ideal" enhancer for a therapeutic purpose is not that simple, due to the complexity of enhancer networks and the related redundancy,  their dynamic nature and the enhancer reprogramming. 
 
@@ -32,7 +56,7 @@ This project aimed to answer a number of questions:
 2. Are there any particularily powerful SEs which are only present in a tumour subpopulation which drives the cancer progression/metastasis? Can we identify those?
 3. Can introduce novel treatment strategies or repurpose drugs to demonstrate synergistic effects in preclinical models? How would that improve patient's prognosis?
 
-The answers to that question resulted in drafting a research paper and subbmitting it to a peer reviewed journal 
+The answers to that question resulted in drafting a research paper and subbmitting it to a peer reviewed journal.
 
 # RESEARCH PAPER (HOPEFULLY) COMING SOON...
 
