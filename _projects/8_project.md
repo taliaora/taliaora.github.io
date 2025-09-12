@@ -4,80 +4,60 @@ title: Market Dynamics and Price Formation in Grid Energy Systems
 description: Time Series Forcasting Project
 img: assets/img/wind.jpg
 importance: 2
-date: 2020-05-25
+date: 2021-05-25
 category: work
 giscus_comments: true
 ---
 *Published: {{ page.date | date: "%-d %B %Y" }}*
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In this project, the team I was a member of utilised historic weather datasets, energy bidding prices and demand data to understand market dynamics and price formation in grid energy systems, as well as identify the perfect location for a renewable energy plant in Wales. The whole project had a particular focus on **renewable resources**.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Why renewables drive price formation
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Growing wind and solar penetration shifts the merit order, increases the frequency of low or negative prices during periods of high renewable output, and raises balancing costs when forecasts miss sudden ramps. Our aim was to quantify these effects and build models and tooling that help operators, traders and analysts make better decisions around renewable variability.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Objectives
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- Forecast **renewable generation** (wind and solar) and **system demand** at multiple horizons: day-ahead, intraday and near-real-time.  
+- Explain **price formation** under different renewable scenarios, highlighting cannibalisation effects, scarcity spikes and curtailment risk.  
+- Deliver a **full-stack** solution for data ingestion, modelling and visualisation, with **GitLab** used for collaboration and CI/CD.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Data and feature engineering
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- **Weather:** reanalysis and NWP feeds (wind speed at hub height, irradiance, temperature), plus derived features such as ramp rates and anomalies.  
+- **Market:** day-ahead and intraday bids/offers, imbalance prices, constraint and curtailment flags.  
+- **System:** calendar and holiday effects.
 
-{% raw %}
+Feature work included lagged terms, rolling statistics, spatial aggregation for wind fleets, and interaction features between weather and asset mix.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Modelling approach
 
-{% endraw %}
+- Benchmarks: seasonal naïve, persistence and simple regressions for transparency.  
+- Forecasting models: gradient boosting and probabilistic models for day-ahead; lightweight nowcasting models close to gate closure.  
+- Evaluation: MAE, RMSE and CRPS for probabilistic forecasts; calibration and sharpness diagnostics; back-tests across seasons to capture extremes.
+
+Rather than promise a single “best” model, we deployed an **ensemble** that balances accuracy and interpretability, and we compared results against strong naïve baselines.
+
+## What we learned about renewables and prices
+
+- **Wind-driven price troughs:** high onshore/offshore output clustered in shoulder seasons correlated with increased low or negative day-ahead prices.  
+- **Solar ramps and balancing risk:** afternoon cloud ramps drove intraday forecast error and balancing prices; near-term nowcasts reduced this risk.  
+- **Curtailment signals:** congestion and curtailment flags aligned with extreme spreads between day-ahead and imbalance prices.  
+- **Cannibalisation effect:** periods of strong fleet output compressed capture prices for wind and solar relative to the system price.
+
+> These findings are dataset-specific and should be re-validated as asset mixes and market rules evolve.
+
+## Full-stack delivery
+
+We built an end-to-end system so results are reproducible and easy to use:
+
+- **Ingestion & storage:** scheduled pipelines to pull weather, market and system feeds into a time-series store; schema checks and data validation.  
+- **Modelling service:** a versioned model layer exposing forecasts and explanations through a simple API.  
+- **Frontend:** a lightweight dashboard to explore renewable output scenarios, price drivers and uncertainty bands; downloadable CSVs for analysts.  
+- **Observability:** run logs, data-freshness monitors and forecast accuracy reports.
+
+### GitLab workflow and CI/CD
+
+- **Issues & MRs:** issue templates, small merge requests and mandatory reviews.  
+- **Pipelines:** automated tests, linting and data-contract checks on every commit; model training jobs on schedules; container builds for the API and UI.  
+- **Environments:** staged deployments with manual approvals to promote from test to production; model and dataset versions tracked in release notes.
