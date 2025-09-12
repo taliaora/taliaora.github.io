@@ -8,10 +8,6 @@ importance: 3
 category: fun
 ---
 
-*Published: {{ page.date | date: "%-d %B %Y" }}*
-
-# COMING SOON
-
 <style>
 /* This CSS applies only to this page */
 .half-width-img img {
