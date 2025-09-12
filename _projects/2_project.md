@@ -55,14 +55,13 @@ Given the sensitivity of the topic, we are presenting only a brief overview of o
 
 In the dataset, over 70% of survivors knew the perpetrator, and around 50% of all survivors identified the perpetrator as a friend or family member. The cost to the UK economy of this type of violence, in the areas of the UK we investigated, was estimated at up to £250,000 per affected individual, including costs to the criminal justice system, healthcare and social services, loss of productivity, loss of quality of life, and the costs of incarceration.
 
-<div style="width:50%; margin:2rem auto; text-align:center;">
-  {% include figure.liquid
-     loading="eager"
-     path="assets/img/police_engagment.jpg"
-     title="example image"
-     class="img-fluid rounded z-depth-1 w-100"
-  %}
-</div>
+{% include figure.liquid
+   loading="eager"
+   path="assets/img/police_engagment.jpg"
+   title="example image"
+   class="rounded z-depth-1"
+   style="width:auto;height:auto;max-width:none;"
+%}
 <div class="caption">
     On average, if victims engaged with Synergy Essex services they were 2.2 times more likely to stay engaged with their interaction with the police. 
 </div>
