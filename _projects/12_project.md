@@ -33,7 +33,7 @@ giscus_comments: false
   %}
 </div>
 <div class="caption">
-    Synergy Essex is a partnership of r. and s. abuse centres in Essex. 
+    Coactivator condensation at super-enhancers has been suggested in the literature as a mechanisms linking phase separation and gene control.
 </div>
 
 In recent years, enhancer reprogramming has been identified as a driver of carcinogenesis. Multiple reseach papers showed that abberrant transciptional programs are required in malignant cells, and that their targeting presents a promising therapeutic strategy. Nonetheless, simply choosing "the ideal" enhancer for a therapeutic purpose is not that simple, due to the complexity of enhancer networks and the related redundancy,  their dynamic nature and the enhancer reprogramming. 
