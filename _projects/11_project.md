@@ -3,9 +3,13 @@ layout: page
 title: Early Cancer Detection from Multimodal Datasets
 description: Focusing on colorectal cancer and gut health
 img: assets/img/e62ee33e-de0b-4733-8cb9-6201d8248a3e.jpg
+date: 2025-05-25
 importance: 2
 category: work
 ---
+
+*Published: {{ page.date | date: "%-d %B %Y" }}*
+
 
 Early detection is the key to survival when it comes to colorectal cancer (CRC), yet too often it goes unnoticed until it is too late. Only around 14% of CRC cases in the UK are caught at the earliest stage, despite the fact that early diagnosis can lead to survival rates as high as 95%. This striking gap inspired our recent research, which focuses on building a smarter, more accessible screening tool using artificial intelligence.
 
