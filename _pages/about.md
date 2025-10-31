@@ -45,8 +45,10 @@ This website is where you can find my blog posts, learn about my research, publi
 #modify this section using `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, #Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+
 
 <div style="text-align: center; padding: 50px; font-size: 35px; background-color: #f8d7da; color: #1A1A1A!important;">
   <strong>This website is under construction...</strong>
 </div>
+-->
+
