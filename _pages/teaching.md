@@ -13,7 +13,8 @@ nav_order: 6
 
 ## Swansea University / Prifysgol Abertawe
 
-** Learning Demonstrator  **
+** Learning Demonstrator**
+
 **Oct 2023 – Aug 2024 · 11 months**  
 *Contract Position*
 
@@ -29,7 +30,8 @@ Data Science · Calculus · JavaScript · Java · PyTorch
 
 ## OSAP, Oriel College, University of Oxford
 
-** Tutor  **
+** Tutor**
+
 **Oct 2022 – Mar 2023 · Michaelmas and Hilary Terms**
 
 #### Module Taught
@@ -41,7 +43,8 @@ Tutored OSAP undergraduate students from Oriel College, University of Oxford.
 
 ## Swansea University / Prifysgol Abertawe
 
-** Teaching Assistant  **
+** Teaching Assistant**
+
 **Oct 2020 – Jun 2023 · 2 years 9 months**
 
 #### Modules Assisted / Demonstrated
