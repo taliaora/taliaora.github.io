@@ -7,10 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching Experience
-
----
-
 ## Swansea University / Prifysgol Abertawe
 
 **Learning Demonstrator**
