@@ -16,14 +16,10 @@ profile:
     <p>Department of Physics, Singleton Campus,</p>
     <p>Swansea, South Wales</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
-
-<div class="my-3">
-  {% include social.html %}
-</div>
 
 Hi! I'm Natalia. An EPSRC Postdoctoral Fellow, a freelance data scientist, and a PhD candidate (defended, working on corrections). I recently finished my PhD project as a member of an AIMLAC programme (Artificial Intelligence, Machine Learning and Advanced Computing), focusing on cancer research. During the past few years, I specialised in multimodal data fusion methods, Explainable artificial intelligence (XAI), multiomics, signal preprocessing approaches, statistics, and bioinformatics.
 
