@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded an EPSRC Postdoctoral Pathway Fellowship (formerly the EPSRC Doctoral Prize Fellowship)  :sparkles: :smile:
+Awarded an EPSRC Postdoctoral Pathway Fellowship (formerly the EPSRC Doctoral Prize Fellowship)  
