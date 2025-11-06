@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participated as a panelist in the 34th Economic Forum session on AI in Medicine.
+Participated as a panelist in the 34th Economic Forum EU session on AI in Medicine.
