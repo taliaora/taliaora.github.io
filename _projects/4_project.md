@@ -3,7 +3,7 @@ layout: page
 title: Stock Recommendation System
 description: Hobbyist Investing. A Brief Summary
 img: assets/img/stock.jpg
-date: 2025-09-11
+date: 2025-12-09
 importance: 3
 category: fun
 ---
