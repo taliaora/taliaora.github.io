@@ -57,9 +57,10 @@ As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%, any my fri
 
 
 I have used 2 methods to build this portfolio: 1. The safe aproach. 2. The outlier identification (mainly based on the current tumultuous geopolitical situation) based on performance metrics and the global news. 
+
 So first, let's discuss part 2 since it is shorter.
 
-2. THE NOT SO SAFE APPROACH?
+# 2. THE NOT SO SAFE APPROACH?
 This is the experimental part of my investing strategy. I basically repurpose the techniques for outlier detection (including what we do in cancer research for rare cellular subpopulations detection) focusing on standard financial metrics, and mix it with any panic-related events on the market by tracing various newspapers across the globe. Essentially, a lot of news outlets lag behind with their news coverage across different languages, and if you focus on different markets with a large time zone difference, identifying the potential candidates is doable.
 
 # 1. THE SAFE APPROACH
