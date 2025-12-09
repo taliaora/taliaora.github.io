@@ -17,11 +17,24 @@ category: fun
   margin-right: auto;
   display: block;
 }
+
+
+/* NEW: Style for the disclaimer */
+.disclaimer {
+  font-style: italic;
+  font-size: 0.8rem;        /* smaller text */
+  color: #0099ff;           /* softer grey colour */
+  margin-bottom: 1.2rem;
+}
+  
 </style>
 
 *Updated: {{ page.date | date: "%-d %B %Y" }}*
 
+
+<div class="disclaimer">
 #### A DISCLAIMER:  Nothing in this post should be considered financial advice. I am not a regulated financial adviser. Any opinions expressed are for general information and entertainment only. You should carry out your own research or seek professional guidance before making any investment decisions. Trading and investing involve risk, and you may lose money. I only use small amounts of money. Personally, I think that using a risky trading strategy with large amount of money is simply gambling.
+</div>
 
 Ah... The stock market. I have never imagined I would take up trading as a hobby, and initially started doing it as a joke after a conversation with a close friend on the 11 April 2023 (that's when I created my Freetrade account). Although this friend is usually very kind, they implied that I would not understand how to trade because I did not immediately grasp their explanation of a market-related topic. So... I decided to prove them wrong (basically, I just thought it will be funny if I end up with a better portfolio performance). 
 
