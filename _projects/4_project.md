@@ -23,18 +23,6 @@ category: fun
 
 Ah... The stock market. I have never imagined I would take up trading as a hobby, and initially started doing it as a joke after a conversation with a close friend on the 11 April 2023 (that's when I created my Freetrade account). Although this friend is usually very kind, they implied that I would not understand how to trade because I did not immediately grasp their explanation of a market-related topic. So... I decided to prove them wrong (basically, I just thought it will be funny if I end up with a better portfolio performance). 
 
-As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%.
-
-## A DISCLAIMER: I only use small amounts of money. Personally, I think that using a risky trading strategy with large amount of money is simply gambling. Nothing in this post should be considered financial advice. I am not a regulated financial adviser. Any opinions expressed are for general information and entertainment only. You should carry out your own research or seek professional guidance before making any investment decisions. Trading and investing involve risk, and you may lose money.
-
-
-I have used 2 methods to build this portfolio: 1. The safe aproach. 2. The outlier identification (mainly based on the current tumultuous geopolitical situation) based on performance metrics and the global news. 
-So first, let's discuss part 2 since it is shorter.
-
-2. THE NOT SO SAFE APPROACH?
-This is the experimental part of my investing strategy. I basically repurpose the techniques for outlier detection (including what we do in cancer research for rare cellular subpopulations detection) focusing on standard financial metrics, and mix it with any panic-related events on the market by tracing various newspapers across the globe. Essentially, a lot of news outlets lag behind with their news coverage across different languages, and if you focus on different markets with a large time zone difference, identifying the potential candidates is doable. 
-# 1. THE SAFE APPROACH
-
 
 <div style="width:50%; margin:2rem auto; text-align:center;">
   {% include figure.liquid
@@ -47,6 +35,20 @@ This is the experimental part of my investing strategy. I basically repurpose th
 <div class="caption">
     The performance of my portfolio since I started investing.
 </div>
+
+
+As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%.
+
+## A DISCLAIMER: I only use small amounts of money. Personally, I think that using a risky trading strategy with large amount of money is simply gambling. Nothing in this post should be considered financial advice. I am not a regulated financial adviser. Any opinions expressed are for general information and entertainment only. You should carry out your own research or seek professional guidance before making any investment decisions. Trading and investing involve risk, and you may lose money.
+
+
+I have used 2 methods to build this portfolio: 1. The safe aproach. 2. The outlier identification (mainly based on the current tumultuous geopolitical situation) based on performance metrics and the global news. 
+So first, let's discuss part 2 since it is shorter.
+
+2. THE NOT SO SAFE APPROACH?
+This is the experimental part of my investing strategy. I basically repurpose the techniques for outlier detection (including what we do in cancer research for rare cellular subpopulations detection) focusing on standard financial metrics, and mix it with any panic-related events on the market by tracing various newspapers across the globe. Essentially, a lot of news outlets lag behind with their news coverage across different languages, and if you focus on different markets with a large time zone difference, identifying the potential candidates is doable. 
+# 1. THE SAFE APPROACH
+
 
 Identify high quality shares. 
 
