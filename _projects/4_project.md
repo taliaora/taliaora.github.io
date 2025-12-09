@@ -37,7 +37,7 @@ Ah... The stock market. I have never imagined I would take up trading as a hobby
 </div>
 
 
-As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%.
+As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%, any my friend and I used the returns several time to pay for a lovely restaurant meal. :)
 
 ## A DISCLAIMER: I only use small amounts of money. Personally, I think that using a risky trading strategy with large amount of money is simply gambling. Nothing in this post should be considered financial advice. I am not a regulated financial adviser. Any opinions expressed are for general information and entertainment only. You should carry out your own research or seek professional guidance before making any investment decisions. Trading and investing involve risk, and you may lose money.
 
@@ -46,7 +46,8 @@ I have used 2 methods to build this portfolio: 1. The safe aproach. 2. The outli
 So first, let's discuss part 2 since it is shorter.
 
 2. THE NOT SO SAFE APPROACH?
-This is the experimental part of my investing strategy. I basically repurpose the techniques for outlier detection (including what we do in cancer research for rare cellular subpopulations detection) focusing on standard financial metrics, and mix it with any panic-related events on the market by tracing various newspapers across the globe. Essentially, a lot of news outlets lag behind with their news coverage across different languages, and if you focus on different markets with a large time zone difference, identifying the potential candidates is doable. 
+This is the experimental part of my investing strategy. I basically repurpose the techniques for outlier detection (including what we do in cancer research for rare cellular subpopulations detection) focusing on standard financial metrics, and mix it with any panic-related events on the market by tracing various newspapers across the globe. Essentially, a lot of news outlets lag behind with their news coverage across different languages, and if you focus on different markets with a large time zone difference, identifying the potential candidates is doable.
+
 # 1. THE SAFE APPROACH
 
 
