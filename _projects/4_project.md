@@ -29,7 +29,7 @@ Ah... The stock market. I have never imagined I would take up trading as a hobby
 <div style="width:50%; margin:2rem auto; text-align:center;">
   {% include figure.liquid
      loading="eager"
-     path="assets/img/stocks.png"
+     path="assets/img/stocks.jpg"
      title="example image"
      class="img-fluid rounded z-depth-1 w-100"
   %}
