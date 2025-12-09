@@ -21,8 +21,11 @@ category: fun
 
 *Published: {{ page.date | date: "%-d %B %Y" }}*
 
-# COMING SOON
-I have use 2 methods to build this portfolio: 1. The safe aproach. 2. The outlier identification (mainly based on the current tumultous geopolitical situation) based on performance metrics and the global news. 
+Ah... The stock market. I have never imagined I would take up trading as a hobby, and initially started doing it as a joke after a conversation with a close friend on the 11 April 2023 (that's when I created my Freetrade account). Although this friend is usually very kind, they implied that I would not understand how to trade because I did not immediately grasp their explanation of a market-related topic. So I decided to prove them wrong (basically, I just thought it will be funny if I end up with a better portfolio performance). 
+
+As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%.
+
+I have used 2 methods to build this portfolio: 1. The safe aproach. 2. The outlier identification (mainly based on the current tumultous geopolitical situation) based on performance metrics and the global news. 
 # 1. THE SAFE APPROACH
 
 
