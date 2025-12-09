@@ -19,7 +19,7 @@ category: fun
 }
 </style>
 
-*Published: {{ page.date | date: "%-d %B %Y" }}*
+*Updated: {{ page.date | date: "%-d %B %Y" }}*
 
 Ah... The stock market. I have never imagined I would take up trading as a hobby, and initially started doing it as a joke after a conversation with a close friend on the 11 April 2023 (that's when I created my Freetrade account). Although this friend is usually very kind, they implied that I would not understand how to trade because I did not immediately grasp their explanation of a market-related topic. So... I decided to prove them wrong (basically, I just thought it will be funny if I end up with a better portfolio performance). 
 
