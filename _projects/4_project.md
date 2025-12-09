@@ -29,7 +29,7 @@ Ah... The stock market. I have never imagined I would take up trading as a hobby
 <div style="width:50%; margin:2rem auto; text-align:center;">
   {% include figure.liquid
      loading="eager"
-     path="assets/img/stocks.jpg"
+     path="assets/img/stocks.png"
      title="example image"
      class="img-fluid rounded z-depth-1 w-100"
   %}
@@ -39,7 +39,7 @@ Ah... The stock market. I have never imagined I would take up trading as a hobby
 </div>
 
 
-As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%, any my friend and I used the returns several time to pay for a lovely restaurant meal. :)
+As of today, I have a Time-Weighted Rate of Return (TWRR) of 312.85%, any my friend and I occasionally use the returns to pay for a lovely restaurant meal. :)
 
 
 
