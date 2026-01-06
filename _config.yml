@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Natalia M. Sikora # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
 last_name: Natalia M. Sikora
@@ -10,7 +10,7 @@ email: nataliamsikora@gmail.com
 description:   A PhD Candidate in Artificial Medicine 
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: natalia sikora, AI PhD, natalia sikora PhD, machine learning, artificial medicine, computational biology, graph neural networks, single-cell genomics, rare cell discovery
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: website_logo.JPG # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
