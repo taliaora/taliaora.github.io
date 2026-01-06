@@ -14,7 +14,7 @@ category: fun
     </div>
 </div>
 
-During my PhD Programme, I collaborated with other students in AI on a project aiming to educate teachers and students on the current state of AI, its risks and adventages. Overall, we:
+During my PhD Programme, I collaborated with other software engineers, PhD students in the Computer Science Department on a project aiming to educate teachers and students on the current state of AI, its risks and adventages. Overall, we:
 - Created lesson plans for the teachers.
 - Educated the teachers on basic topics of AI.
 - Put together a website explaining basic concepts to the students which was explaining things like a basic neural network architectures (such as CNNs), in a game format.
