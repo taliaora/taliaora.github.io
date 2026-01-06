@@ -10,7 +10,7 @@ giscus_comments: false
 ---
 *Published: {{ page.date | date: "%-d %B %Y" }}*
 
-# COMING SOON ...
+# RESEARCH PAPER (HOPEFULLY) COMING SOON ...
 <style>
 /* This CSS applies only to this page */
 .half-width-img img {
@@ -58,7 +58,6 @@ This project aimed to answer a number of questions:
 
 The answers to that question resulted in drafting a research paper and subbmitting it to a peer reviewed journal.
 
-# RESEARCH PAPER (HOPEFULLY) COMING SOON...
 
 
    
