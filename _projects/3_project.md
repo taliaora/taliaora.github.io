@@ -26,7 +26,11 @@ If you are interested in collaborating, discussing ideas, or learning more about
 
 👉 https://www.linkedin.com/in/natalia-sikora-190902177/
 
-<img width="4320" height="2880" alt="image" src="https://github.com/user-attachments/assets/f8c8e927-29db-45f5-95d0-a052a9546386" />
+<div class="half-width-img">
+  <img
+    alt="VenusGT poster"
+    src="https://github.com/user-attachments/assets/f8c8e927-29db-45f5-95d0-a052a9546386">
+</div>
 
 
 # VenusGT: Trajectory-Aware Graph Transformer for Rare-Cell Discovery
