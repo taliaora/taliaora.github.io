@@ -114,7 +114,7 @@ nav_order: 7
 
 <div class="fun-header">
   <h1>For Fun</h1>
-  <div class="fun-subtitle">Life beyond research — moments that matter most</div>
+  <div class="fun-subtitle">Life beyond research </div>
 </div>
 
 <div class="fun-filters" role="tablist" aria-label="Photo filters">
@@ -125,6 +125,16 @@ nav_order: 7
 
 <div class="fun-grid" id="funGrid">
   <!-- Travel -->
+  <div class="fun-item" data-category="travel">
+    <a class="fun-card" href="{{ '/assets/img/for_fun/dog_hike.jpg' | relative_url }}" target="_blank" rel="noopener">
+      <img class="fun-img" src="{{ '/assets/img/for_fun/dog_hike.jpg' | relative_url }}" alt="A hike with my dog">
+      <div class="fun-meta">
+        <p class="fun-title">A hike with my dog </p>
+        <p class="fun-caption"> Exploring Wales </p>
+      </div>
+    </a>
+  </div>
+
   
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" target="_blank" rel="noopener">
@@ -136,6 +146,16 @@ nav_order: 7
     </a>
   </div>
 
+  <div class="fun-item" data-category="travel">
+    <a class="fun-card" href="{{ '/assets/img/for_fun/Brecon_Beacons.jpg' | relative_url }}" target="_blank" rel="noopener">
+      <img class="fun-img" src="{{ '/assets/img/for_fun/Brecon_Beacons.jpg' | relative_url }}" alt=" Brecon Beacons">
+      <div class="fun-meta">
+        <p class="fun-title"> Brecon Beacons </p>
+        <p class="fun-caption"> Bannau Brycheiniog National Park </p>
+      </div>
+    </a>
+  </div>
+  
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" alt="Surfing in Morocco">
