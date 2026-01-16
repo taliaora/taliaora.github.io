@@ -8,6 +8,9 @@ nav_order: 7
 ---
 
 <style>
+.page-header {
+  display: none !important;
+}
 /* --- Header --- */
 .fun-header {
   text-align: center;
@@ -47,33 +50,28 @@ nav_order: 7
   color: white;
 }
 
-/* --- Grid --- */
+  
+/* --- Masonry grid (no big gaps) --- */
 .fun-grid {
-  display: grid;
-  gap: 1.25rem;
+  column-count: 2;        /* mobile/tablet */
+  column-gap: 1.25rem;
   margin-bottom: 2rem;
-
-  /* default: 2 columns (mobile/tablet) */
-  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-/* wide screens: 3 columns */
 @media (min-width: 992px) {
   .fun-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-count: 3;      /* wide screens */
   }
 }
 
-/* optional: very small phones -> 1 column */
-@media (max-width: 420px) {
-  .fun-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
+/* each item becomes a "block" inside the columns */
 .fun-item {
-  /* no grid-column spans needed */
+  break-inside: avoid;
+  margin: 0 0 1.25rem;    /* vertical spacing between tiles */
+  display: inline-block;  /* important for columns */
+  width: 100%;
 }
+
 
 /* --- Cards --- */
 .fun-card {
