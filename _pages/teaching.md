@@ -8,6 +8,14 @@ nav_order: 6
 ---
 
 <style>
+/* Hide ALL default al-folio page titles/descriptions */
+.page-header,
+.page-title,
+header.page-header,
+header h1,
+header p {
+  display: none !important;
+}
 /* Hide the default al-folio page header to avoid the huge duplicate look */
 .page-header { display: none !important; }
 
@@ -99,7 +107,7 @@ nav_order: 6
 
 <div class="teach-header">
   <h1>Teaching</h1>
-  <div class="teach-subtitle">Summary of the courses I’ve taught, demonstrated, or tutored.</div>
+  <div class="teach-subtitle">Summary of the courses I’ve taught or demonstrated. </div>
 </div>
 
 <div class="teach-card">
