@@ -8,9 +8,20 @@ nav_order: 7
 ---
 
 <style>
-.page-header {
+
+/* HIDE al-folio's automatic page title + description */
+.page-header,
+.page-title,
+.page-description,
+header.page-header,
+header.post-header,
+h1.post-title,
+h1.page-title,
+p.post-description,
+p.page-description {
   display: none !important;
 }
+
 /* --- Header --- */
 .fun-header {
   text-align: center;
@@ -50,7 +61,6 @@ nav_order: 7
   color: white;
 }
 
-  
 /* --- Masonry grid (no big gaps) --- */
 .fun-grid {
   column-count: 2;        /* mobile/tablet */
@@ -67,11 +77,10 @@ nav_order: 7
 /* each item becomes a "block" inside the columns */
 .fun-item {
   break-inside: avoid;
-  margin: 0 0 1.25rem;    /* vertical spacing between tiles */
-  display: inline-block;  /* important for columns */
+  margin: 0 0 1.25rem;
+  display: inline-block;
   width: 100%;
 }
-
 
 /* --- Cards --- */
 .fun-card {
@@ -85,13 +94,14 @@ nav_order: 7
   transform: translateY(-2px);
   box-shadow: 0 14px 34px rgba(0,0,0,0.12);
 }
+
 .fun-img {
   width: 100%;
   height: auto;
-  object-fit: contain;   /* ensures the whole photo is visible */
+  object-fit: contain;
   display: block;
-  border-radius: 14px;
 }
+
 .fun-meta {
   padding: 0.85rem 1rem 1rem;
 }
@@ -108,78 +118,83 @@ nav_order: 7
 
 /* Hidden state for filtering */
 .fun-hidden { display: none !important; }
+
 </style>
 
+
+<!-- Custom Header -->
 <div class="fun-header">
   <h1>For Fun</h1>
   <div class="fun-subtitle">Life beyond research </div>
 </div>
 
+<!-- Filters -->
 <div class="fun-filters" role="tablist" aria-label="Photo filters">
   <button class="fun-pill is-active" data-filter="all" type="button">All</button>
   <button class="fun-pill" data-filter="travel" type="button">Travel</button>
   <button class="fun-pill" data-filter="conferences" type="button">Conferences</button>
 </div>
 
+<!-- Masonry Grid -->
 <div class="fun-grid" id="funGrid">
+
   <!-- Travel -->
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/dog_hike.jpg' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/dog_hike.jpg' | relative_url }}" alt="A hike with my dog">
       <div class="fun-meta">
-        <p class="fun-title">A hike with my dog </p>
-        <p class="fun-caption"> Exploring Wales </p>
+        <p class="fun-title">A hike with my dog</p>
+        <p class="fun-caption">Exploring Wales</p>
       </div>
     </a>
   </div>
 
-  
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" alt="Paragliding">
       <div class="fun-meta">
         <p class="fun-title">Paragliding</p>
-        <p class="fun-caption"> Still learning this! </p>
+        <p class="fun-caption">Still learning this!</p>
       </div>
     </a>
   </div>
 
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/Brecon_Beacons.jpg' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/Brecon_Beacons.jpg' | relative_url }}" alt=" Brecon Beacons">
+      <img class="fun-img" src="{{ '/assets/img/for_fun/Brecon_Beacons.jpg' | relative_url }}" alt="Brecon Beacons">
       <div class="fun-meta">
-        <p class="fun-title"> Brecon Beacons </p>
-        <p class="fun-caption"> Bannau Brycheiniog National Park </p>
+        <p class="fun-title">Brecon Beacons</p>
+        <p class="fun-caption">Bannau Brycheiniog National Park</p>
       </div>
     </a>
   </div>
-  
+
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" alt="Surfing in Morocco">
       <div class="fun-meta">
         <p class="fun-title">Surfing in Morocco</p>
-        <p class="fun-caption"> Highly recommend! </p>
+        <p class="fun-caption">Highly recommend!</p>
       </div>
     </a>
   </div>
-  
+
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" alt="Winter mountaineering">
       <div class="fun-meta">
         <p class="fun-title">Winter mountaineering</p>
-        <p class="fun-caption">A 7h hike to stand on a frozen lake :) </p>
+        <p class="fun-caption">A 7h hike to a frozen lake :)</p>
       </div>
     </a>
   </div>
-    
+
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/stables.jpg' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/stables.jpg' | relative_url }}" alt="Stables">
       <div class="fun-meta">
         <p class="fun-title">Stables</p>
-        <p class="fun-caption"> Prepping for the afternoon trail ride </p>
+        <p class="fun-caption">Prepping for an afternoon ride</p>
       </div>
     </a>
   </div>
@@ -190,7 +205,7 @@ nav_order: 7
       <img class="fun-img" src="{{ '/assets/img/for_fun/MIT_visit.png' | relative_url }}" alt="MIT visit">
       <div class="fun-meta">
         <p class="fun-title">MIT visit</p>
-        <p class="fun-caption"> Thank you for the invite! </p>
+        <p class="fun-caption">Thank you for the invite!</p>
       </div>
     </a>
   </div>
@@ -199,8 +214,8 @@ nav_order: 7
     <a class="fun-card" href="{{ '/assets/img/for_fun/conference_drug_discovery.png' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/conference_drug_discovery.png' | relative_url }}" alt="Conference: drug discovery">
       <div class="fun-meta">
-        <p class="fun-title">Presenting my drug discovery project </p>
-        <p class="fun-caption">AI for better future </p>
+        <p class="fun-title">Presenting my drug discovery project</p>
+        <p class="fun-caption">AI for a better future</p>
       </div>
     </a>
   </div>
@@ -209,11 +224,12 @@ nav_order: 7
     <a class="fun-card" href="{{ '/assets/img/for_fun/34_Economic_forum.jpg' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/34_Economic_forum.jpg' | relative_url }}" alt="Economic forum">
       <div class="fun-meta">
-        <p class="fun-title">Economic forum panellist </p>
-        <p class="fun-caption"> Pleasure to speak with fellow experts </p>
+        <p class="fun-title">Economic forum panellist</p>
+        <p class="fun-caption">Great conversations with fellow experts</p>
       </div>
     </a>
   </div>
+
 </div>
 
 <script>
