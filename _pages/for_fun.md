@@ -122,7 +122,7 @@ nav_order: 7
       <img class="fun-img" src="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" alt="Winter mountaineering">
       <div class="fun-meta">
         <p class="fun-title">Winter mountaineering</p>
-        <p class="fun-caption">A favourite day in the mountains</p>
+        <p class="fun-caption">A 7h hike to stand on a frozen lake :) </p>
       </div>
     </a>
   </div>
@@ -132,7 +132,7 @@ nav_order: 7
       <img class="fun-img" src="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" alt="Paragliding">
       <div class="fun-meta">
         <p class="fun-title">Paragliding</p>
-        <p class="fun-caption">Chasing wind and views</p>
+        <p class="fun-caption"> Still learning this! </p>
       </div>
     </a>
   </div>
@@ -141,8 +141,8 @@ nav_order: 7
     <a class="fun-card" href="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" alt="Surfing in Morocco">
       <div class="fun-meta">
-        <p class="fun-title">Surfing — Morocco</p>
-        <p class="fun-caption">Saltwater reset</p>
+        <p class="fun-title">Surfing in Morocco</p>
+        <p class="fun-caption"> Highly recommend! </p>
       </div>
     </a>
   </div>
@@ -152,7 +152,7 @@ nav_order: 7
       <img class="fun-img" src="{{ '/assets/img/for_fun/stables.jpg' | relative_url }}" alt="Stables">
       <div class="fun-meta">
         <p class="fun-title">Stables</p>
-        <p class="fun-caption">Quiet mornings</p>
+        <p class="fun-caption"> Prepping for the afternoon trail ride </p>
       </div>
     </a>
   </div>
@@ -163,7 +163,7 @@ nav_order: 7
       <img class="fun-img" src="{{ '/assets/img/for_fun/MIT_visit.png' | relative_url }}" alt="MIT visit">
       <div class="fun-meta">
         <p class="fun-title">MIT visit</p>
-        <p class="fun-caption">Great conversations & ideas</p>
+        <p class="fun-caption"> Thank you for the invite! </p>
       </div>
     </a>
   </div>
@@ -172,8 +172,8 @@ nav_order: 7
     <a class="fun-card" href="{{ '/assets/img/for_fun/conference_drug_discovery.png' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/conference_drug_discovery.png' | relative_url }}" alt="Conference: drug discovery">
       <div class="fun-meta">
-        <p class="fun-title">Conference — drug discovery</p>
-        <p class="fun-caption">New science, new people</p>
+        <p class="fun-title">Presenting my drug discovery project </p>
+        <p class="fun-caption">AI for better future </p>
       </div>
     </a>
   </div>
@@ -182,8 +182,8 @@ nav_order: 7
     <a class="fun-card" href="{{ '/assets/img/for_fun/34_Economic_forum.jpg' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/34_Economic_forum.jpg' | relative_url }}" alt="Economic forum">
       <div class="fun-meta">
-        <p class="fun-title">Economic forum</p>
-        <p class="fun-caption">A moment between sessions</p>
+        <p class="fun-title">Economic forum panellist </p>
+        <p class="fun-caption"> Pleasure to speak with fellow experts </p>
       </div>
     </a>
   </div>
