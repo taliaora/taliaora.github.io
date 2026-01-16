@@ -78,9 +78,10 @@ nav_order: 7
 }
 .fun-img {
   width: 100%;
-  height: 330px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;   /* ensures the whole photo is visible */
   display: block;
+  border-radius: 14px;
 }
 @media (max-width: 575px) {
   .fun-img { height: 260px; }
