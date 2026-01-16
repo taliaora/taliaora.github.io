@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Natalia. An EPSRC Postdoctoral Fellow, a freelance data scientist, and a PhD candidate (defended, working on corrections). I recently finished my PhD project as a member of an AIMLAC programme (Artificial Intelligence, Machine Learning and Advanced Computing), focusing on cancer research. During the past few years, I specialised in multimodal data fusion methods, Explainable artificial intelligence (XAI), multiomics, signal preprocessing approaches, statistics, and bioinformatics.
+Hi! I'm Natalia. An EPSRC Postdoctoral Fellow, a freelance data scientist, and a PhD candidate in the Department of Physics (thesis defended, working on corrections). I recently finished my PhD project as a member of an AIMLAC programme (Artificial Intelligence, Machine Learning and Advanced Computing), focusing on cancer research. During the past few years, I specialised in multimodal data fusion methods, Explainable artificial intelligence (XAI), multiomics, signal preprocessing approaches, statistics, and bioinformatics.
 
 I graduated from a University of Nottingham in 2020, with a BSc Hons in Biochemistry. Both, my PhD and my undergraduate degree provide me with a unique skillset, with a deep understanding of computational biology and AI applications in medicine. 
 
