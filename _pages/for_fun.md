@@ -50,18 +50,29 @@ nav_order: 7
 /* --- Grid --- */
 .fun-grid {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
   gap: 1.25rem;
   margin-bottom: 2rem;
+
+  /* default: 2 columns (mobile/tablet) */
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
-.fun-item {
-  grid-column: span 6; /* 2 columns by default */
-}
+
+/* wide screens: 3 columns */
 @media (min-width: 992px) {
-  .fun-item { grid-column: span 6; } /* 2 columns on desktop like your screenshot */
+  .fun-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
-@media (max-width: 575px) {
-  .fun-item { grid-column: span 12; } /* 1 column on mobile */
+
+/* optional: very small phones -> 1 column */
+@media (max-width: 420px) {
+  .fun-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.fun-item {
+  /* no grid-column spans needed */
 }
 
 /* --- Cards --- */
@@ -82,9 +93,6 @@ nav_order: 7
   object-fit: contain;   /* ensures the whole photo is visible */
   display: block;
   border-radius: 14px;
-}
-@media (max-width: 575px) {
-  .fun-img { height: 260px; }
 }
 .fun-meta {
   padding: 0.85rem 1rem 1rem;
@@ -117,16 +125,7 @@ nav_order: 7
 
 <div class="fun-grid" id="funGrid">
   <!-- Travel -->
-  <div class="fun-item" data-category="travel">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" alt="Winter mountaineering">
-      <div class="fun-meta">
-        <p class="fun-title">Winter mountaineering</p>
-        <p class="fun-caption">A 7h hike to stand on a frozen lake :) </p>
-      </div>
-    </a>
-  </div>
-
+  
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" alt="Paragliding">
@@ -146,7 +145,17 @@ nav_order: 7
       </div>
     </a>
   </div>
-
+  
+  <div class="fun-item" data-category="travel">
+    <a class="fun-card" href="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" target="_blank" rel="noopener">
+      <img class="fun-img" src="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" alt="Winter mountaineering">
+      <div class="fun-meta">
+        <p class="fun-title">Winter mountaineering</p>
+        <p class="fun-caption">A 7h hike to stand on a frozen lake :) </p>
+      </div>
+    </a>
+  </div>
+    
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="{{ '/assets/img/for_fun/stables.jpg' | relative_url }}" target="_blank" rel="noopener">
       <img class="fun-img" src="{{ '/assets/img/for_fun/stables.jpg' | relative_url }}" alt="Stables">
