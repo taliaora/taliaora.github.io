@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: Natalia M. Sikora # the website title (if blank, full name will be used instead)
-first_name: 
-middle_name: 
-last_name: Natalia M. Sikora
+first_name: Natalia
+middle_name: M.
+last_name: Sikora
 email: nataliamsikora@gmail.com
-description:   A PhD Candidate in Artificial Medicine 
+description:   A PhD Candidate, EPSRC Postdoctoral Fellow and machine learning researcher specialising in multimodal data fusion, explainable AI (XAI), and biomedical AI. Swansea, Oxford, Nottingham.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: natalia sikora, AI PhD, natalia sikora personal website, natalia sikora PhD, machine learning, artificial medicine, computational biology, graph neural networks, single-cell genomics, rare cell discovery
@@ -60,9 +60,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -86,7 +86,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: natalia-sikora-190902177 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: #
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-6457-6365 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -306,8 +306,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sikora]
+  first_name: [Natalia]
 
   style: apa
   locale: en
