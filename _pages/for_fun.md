@@ -140,8 +140,8 @@ p.page-description {
 
   <!-- Travel -->
   <div class="fun-item" data-category="travel">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/dog_hike.jpg' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/dog_hike.jpg' | relative_url }}" alt="A hike with my dog">
+    <a class="fun-card" href="/assets/img/for_fun/dog_hike.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/dog_hike.jpg" alt="A hike with my dog">
       <div class="fun-meta">
         <p class="fun-title">A hike with my dog</p>
         <p class="fun-caption">Exploring Wales</p>
@@ -150,8 +150,8 @@ p.page-description {
   </div>
 
   <div class="fun-item" data-category="travel">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/paragliding.png' | relative_url }}" alt="Paragliding">
+    <a class="fun-card" href="/assets/img/for_fun/paragliding.png" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/paragliding.png" alt="Paragliding">
       <div class="fun-meta">
         <p class="fun-title">Paragliding</p>
         <p class="fun-caption">Still learning this!</p>
@@ -160,8 +160,8 @@ p.page-description {
   </div>
 
   <div class="fun-item" data-category="travel">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/Brecon_Beacons.jpg' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/Brecon_Beacons.jpg' | relative_url }}" alt="Brecon Beacons">
+    <a class="fun-card" href="/assets/img/for_fun/Brecon_Beacons.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/Brecon_Beacons.jpg" alt="Brecon Beacons">
       <div class="fun-meta">
         <p class="fun-title">Brecon Beacons</p>
         <p class="fun-caption">Bannau Brycheiniog National Park</p>
@@ -170,8 +170,8 @@ p.page-description {
   </div>
 
   <div class="fun-item" data-category="travel">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/surfing_morocco.png' | relative_url }}" alt="Surfing in Morocco">
+    <a class="fun-card" href="/assets/img/for_fun/surfing_morocco.png" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/surfing_morocco.png" alt="Surfing in Morocco">
       <div class="fun-meta">
         <p class="fun-title">Surfing in Morocco</p>
         <p class="fun-caption">Highly recommend!</p>
@@ -180,8 +180,8 @@ p.page-description {
   </div>
 
   <div class="fun-item" data-category="travel">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/winter_mountaineering.jpg' | relative_url }}" alt="Winter mountaineering">
+    <a class="fun-card" href="/assets/img/for_fun/winter_mountaineering.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/winter_mountaineering.jpg" alt="Winter mountaineering">
       <div class="fun-meta">
         <p class="fun-title">Winter mountaineering</p>
         <p class="fun-caption">A 7h hike to a frozen lake :)</p>
@@ -190,8 +190,8 @@ p.page-description {
   </div>
 
   <div class="fun-item" data-category="travel">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/stables.jpg' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/stables.jpg' | relative_url }}" alt="Stables">
+    <a class="fun-card" href="/assets/img/for_fun/stables.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/stables.jpg" alt="Stables">
       <div class="fun-meta">
         <p class="fun-title">Stables</p>
         <p class="fun-caption">Prepping for an afternoon ride</p>
@@ -201,8 +201,8 @@ p.page-description {
 
   <!-- Conferences -->
   <div class="fun-item" data-category="conferences">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/MIT_visit.png' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/MIT_visit.png' | relative_url }}" alt="MIT visit">
+    <a class="fun-card" href="/assets/img/for_fun/MIT_visit.png" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/MIT_visit.png" alt="MIT visit">
       <div class="fun-meta">
         <p class="fun-title">MIT visit</p>
         <p class="fun-caption">Thank you for the invite!</p>
@@ -211,8 +211,8 @@ p.page-description {
   </div>
 
   <div class="fun-item" data-category="conferences">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/conference_drug_discovery.png' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/conference_drug_discovery.png' | relative_url }}" alt="Conference: drug discovery">
+    <a class="fun-card" href="/assets/img/for_fun/conference_drug_discovery.png" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/conference_drug_discovery.png" alt="Conference: drug discovery">
       <div class="fun-meta">
         <p class="fun-title">Presenting my drug discovery project</p>
         <p class="fun-caption">AI for a better future</p>
@@ -221,8 +221,8 @@ p.page-description {
   </div>
 
   <div class="fun-item" data-category="conferences">
-    <a class="fun-card" href="{{ '/assets/img/for_fun/34_Economic_forum.jpg' | relative_url }}" target="_blank" rel="noopener">
-      <img class="fun-img" src="{{ '/assets/img/for_fun/34_Economic_forum.jpg' | relative_url }}" alt="Economic forum">
+    <a class="fun-card" href="/assets/img/for_fun/34_Economic_forum.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/34_Economic_forum.jpg" alt="Economic forum">
       <div class="fun-meta">
         <p class="fun-title">Economic forum panellist</p>
         <p class="fun-caption">Great conversations with fellow experts</p>
