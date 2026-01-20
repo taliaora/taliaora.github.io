@@ -1,6 +1,35 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+<!-- Person schema for Google -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}{{ site.baseurl }}/#person",
+  "name": "Natalia M. Sikora",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "image": "{{ site.url }}{{ site.baseurl }}/assets/img/prof_pic.jpg",
+  "jobTitle": "EPSRC Postdoctoral Fellow",
+  "description": "EPSRC Postdoctoral Fellow and machine learning researcher specialising in multimodal data fusion, explainable AI, and biomedical applications.",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Swansea University",
+    "url": "https://www.swansea.ac.uk/"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "University of Nottingham",
+    "url": "https://www.nottingham.ac.uk/"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/natalia-sikora-190902177/",
+    "https://github.com/taliaora",
+    "https://orcid.org/0000-0001-6457-6365",
+    "https://scholar.google.co.uk/citations?user=p99Lno4AAAAJ&hl=en&oi=sra"
+  ]
+}
+</script>
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link
