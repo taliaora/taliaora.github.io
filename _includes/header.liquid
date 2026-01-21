@@ -165,31 +165,27 @@
     }
   }
 {% if page.url == "/" %}
-  <!-- Docking UI (home page only) -->
-  <div id="dock-ui">
-    <!-- Dog (clickable) -->
-    <img
-      id="floating-dog"
-      src="{{ '/assets/img/dog_floating.png' | relative_url }}"
-      alt="Floating Dog"
-      class="floating-image is-floating"
-      role="button"
-      tabindex="0"
-    />
+  <img
+    id="floatingDog"
+    src="{{ '/assets/img/dog_floating.png' | relative_url }}"
+    alt="Floating Dog"
+    class="floating-image is-floating"
+    role="button"
+    tabindex="0"
+    title="Click to paws()"
+  />
 
-    <!-- Klein bottle target (bottom-right) -->
-    <img
-      id="klein-bottle"
-      src="{{ '/assets/img/klein_bottle_static.png' | relative_url }}"
-      data-static="{{ '/assets/img/klein_bottle_static.png' | relative_url }}"
-      data-anim="{{ '/assets/img/klein_bottle.gif' | relative_url }}"
-      alt="Klein bottle portal"
-      class="klein-bottle"
-    />
+  <img
+    id="kleinBottle"
+    class="klein-bottle is-hidden"
+    src="{{ '/assets/img/klein_bottle_static.png' | relative_url }}"
+    data-static="{{ '/assets/img/klein_bottle_static.png' | relative_url }}"
+    data-anim="{{ '/assets/img/klein_bottle.gif' | relative_url }}"
+    alt=""
+    aria-hidden="true"
+  />
 
-    <!-- Portal warp effect (hidden until docking) -->
-    <div id="portal-warp" class="portal-warp" aria-hidden="true"></div>
-  </div>
+  <div id="portalWarp" class="portal-warp" aria-hidden="true"></div>
 {% endif %}
 
 </style> 
