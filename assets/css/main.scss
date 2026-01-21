@@ -25,10 +25,8 @@ $max-content-width: {{ site.max_width }};
 ;
 /* --- Home-page docking toys --- */
 #dock-ui { pointer-events: none; }
-
 /* Dog */
-#floating-dog {
-  pointer-events: auto;
+#floatingDog {
   position: fixed;
   top: 90px;
   right: 24px;
@@ -36,33 +34,41 @@ $max-content-width: {{ site.max_width }};
   height: auto;
   z-index: 9999;
   cursor: pointer;
-  transition: transform 900ms cubic-bezier(.2,.8,.2,1);
+  transition: transform 900ms cubic-bezier(.2,.8,.2,1), opacity 250ms ease;
 }
 
-/* Floating animation (only when .is-floating is present) */
-#floating-dog.is-floating {
+#floatingDog.is-floating {
   animation: dog-float 2.2s ease-in-out infinite;
 }
 
 @keyframes dog-float {
   0%, 100% { transform: translateY(0px); }
-  50%      { transform: translateY(-10px); }
+  50% { transform: translateY(-10px); }
 }
 
-/* Klein bottle target bottom-right */
-#klein-bottle {
-  pointer-events: none;
+#floatingDog.is-docked {
+  animation: none !important;
+}
+
+/* Klein bottle bottom-right */
+#kleinBottle {
   position: fixed;
   right: 18px;
   bottom: 18px;
   width: 140px;
   height: auto;
   z-index: 9998;
-  opacity: 1;
+  pointer-events: none;
+  opacity: 0.95;
 }
 
-/* Portal warp ring (hidden until docking) */
-#portal-warp {
+.is-hidden {
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Portal warp ring */
+#portalWarp {
   position: fixed;
   right: 18px;
   bottom: 18px;
@@ -79,10 +85,9 @@ $max-content-width: {{ site.max_width }};
       rgba(120,180,255,0.35) 55%,
       rgba(180,120,255,0.15) 70%,
       rgba(255,255,255,0.0) 78%);
-  filter: blur(0.2px);
 }
 
-#portal-warp.is-active {
+#portalWarp.is-active {
   animation: portal-pop 900ms ease-out forwards;
 }
 
