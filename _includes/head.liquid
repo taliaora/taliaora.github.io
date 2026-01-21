@@ -112,6 +112,10 @@
   </script>
 {% endif %}
 
+{% if page.url == "/" %}
+  <script src="{{ '/assets/js/dog-klein.js' | relative_url | bust_file_cache }}"></script>
+{% endif %}
+
 <!-- GeoJSON support via Leaflet -->
 {% if page.map %}
   <link
