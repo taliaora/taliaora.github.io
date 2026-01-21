@@ -23,3 +23,71 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* --- Home-page docking toys --- */
+#dock-ui { pointer-events: none; }
+
+/* Dog */
+#floating-dog {
+  pointer-events: auto;
+  position: fixed;
+  top: 90px;
+  right: 24px;
+  width: 92px;
+  height: auto;
+  z-index: 9999;
+  cursor: pointer;
+  transition: transform 900ms cubic-bezier(.2,.8,.2,1);
+}
+
+/* Floating animation (only when .is-floating is present) */
+#floating-dog.is-floating {
+  animation: dog-float 2.2s ease-in-out infinite;
+}
+
+@keyframes dog-float {
+  0%, 100% { transform: translateY(0px); }
+  50%      { transform: translateY(-10px); }
+}
+
+/* Klein bottle target bottom-right */
+#klein-bottle {
+  pointer-events: none;
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  width: 140px;
+  height: auto;
+  z-index: 9998;
+  opacity: 1;
+}
+
+/* Portal warp ring (hidden until docking) */
+#portal-warp {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  width: 160px;
+  height: 160px;
+  border-radius: 999px;
+  z-index: 9997;
+  opacity: 0;
+  transform: scale(0.4);
+  pointer-events: none;
+  background:
+    radial-gradient(circle at center,
+      rgba(255,255,255,0.0) 35%,
+      rgba(120,180,255,0.35) 55%,
+      rgba(180,120,255,0.15) 70%,
+      rgba(255,255,255,0.0) 78%);
+  filter: blur(0.2px);
+}
+
+#portal-warp.is-active {
+  animation: portal-pop 900ms ease-out forwards;
+}
+
+@keyframes portal-pop {
+  0%   { opacity: 0; transform: scale(0.2); filter: blur(2px); }
+  40%  { opacity: 1; transform: scale(1.05); filter: blur(0.6px); }
+  100% { opacity: 0; transform: scale(1.25); filter: blur(2px); }
+}
