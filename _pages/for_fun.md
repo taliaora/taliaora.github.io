@@ -158,6 +158,46 @@ p.page-description {
       </div>
     </a>
   </div>
+  
+  <div class="fun-item" data-category="travel">
+    <a class="fun-card" href="/assets/img/for_fun/hikes.jpeg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/hikes.jpeg" alt="Coastal hikes">
+      <div class="fun-meta">
+        <p class="fun-title">Coastal hikes</p>
+        <p class="fun-caption"></p>
+      </div>
+    </a>
+  </div>
+
+  <div class="fun-item" data-category="travel">
+    <a class="fun-card" href="/assets/img/for_fun/horses.jpeg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/horses.jpeg" alt="Horses">
+      <div class="fun-meta">
+        <p class="fun-title">More horses!</p>
+        <p class="fun-caption"></p>
+      </div>
+    </a>
+  </div>
+
+  <div class="fun-item" data-category="conferences">
+    <a class="fun-card" href="/assets/img/for_fun/gala_stypendialna.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/gala_stypendialna.jpg" alt="Top 10 Young Professionals of Polish Descent">
+      <div class="fun-meta">
+        <p class="fun-title">Top 10 Young Professionals of Polish Descent</p>
+        <p class="fun-caption">Award ceremony.</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="fun-item" data-category="conferences">
+    <a class="fun-card" href="/assets/img/for_fun/EurIPS.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/EurIPS.jpg" alt="EurIPS">
+      <div class="fun-meta">
+        <p class="fun-title">EurIPS</p>
+        <p class="fun-caption">Presenting my research.</p>
+      </div>
+    </a>
+  </div>
 
   <div class="fun-item" data-category="travel">
     <a class="fun-card" href="/assets/img/for_fun/Brecon_Beacons.jpg" target="_blank" rel="noopener">
