@@ -29,7 +29,7 @@ During my PhD, I have published in [Nature](https://www.nature.com/articles/s415
 
 I have a proven [track record](https://taliaora.github.io/projects/) of working across all stages of the ML pipeline, including data collection, quality control, preprocessing, modelling, and reporting. Furthermore, I enjoy doing research, data analytics, and exploring applications of AI in society. To date, I had the honour of contributing to multiple charity projects delivering data-driven insights for social impact. I am experienced in project management (agile methodologies like scrum, kanban, teams up to 12 - 14 people), data modelling, and data engineering. In my work, I focus on creating a welcoming, honest, collaborative atmosphere and I bring a positive, team-oriented approach to fast-paced environments. 
 
-In my free time, you can find me hiking with my dog, hitting the gym, painting, horse riding, doing yoga, and practising krav maga. 
+In my free time, you can find me hiking with my dog, hitting the gym, painting, horse riding, doing yoga, modelling the stock market ----> [trading stocks](https://taliaora.github.io/projects/4_project/) and practising krav maga. 
 
 This website is where you can find my blog posts, learn about my research, publications, various projects I participated in, and a selection of my [art/photography](/for_fun/)!
 
