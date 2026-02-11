@@ -270,15 +270,22 @@ p.page-description {
     </a>
   </div>
 
-  <div class="fun-item" data-category="conferences">
-    <a class="fun-card" href="/assets/img/for_fun/34_Economic_forum.jpg" target="_blank" rel="noopener">
-      <img class="fun-img" src="/assets/img/for_fun/34_Economic_forum.jpg" alt="Natalia Sikora Economic forum">
-      <div class="fun-meta">
-        <p class="fun-title">Economic forum panellist</p>
-        <p class="fun-caption">Great conversations with fellow experts</p>
-      </div>
-    </a>
-  </div>
+<div class="fun-item" data-category="conferences">
+  <a class="fun-card" 
+     href="https://www.linkedin.com/posts/natalia-sikora-190902177_one-of-the-aspects-of-professional-life-i-activity-7369799712381497345-dLJN"
+     target="_blank" 
+     rel="noopener">
+     
+    <img class="fun-img" src="/assets/img/for_fun/34_Economic_forum.jpg" 
+         alt="Natalia Sikora LinkedIn post about Economic Forum">
+
+    <div class="fun-meta">
+      <p class="fun-title">Economic Forum on LinkedIn</p>
+      <p class="fun-caption">Click for the full post on LinkedIn</p>
+    </div>
+
+  </a>
+</div>
 
 </div>
 
