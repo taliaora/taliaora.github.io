@@ -259,6 +259,16 @@ p.page-description {
       </div>
     </a>
   </div>
+  
+  <div class="fun-item" data-category="conferences">
+    <a class="fun-card" href="/assets/img/for_fun/Natalia_Sikora_FOG.jpg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/Natalia_Sikora_FOG.jpg" alt="Natalia Sikora Conference: FOG">
+      <div class="fun-meta">
+        <p class="fun-title">Presenting at Festival of Genomics and Biodata 2026 </p>
+        <p class="fun-caption">Graph Transformer Project </p>
+      </div>
+    </a>
+  </div>
 
   <div class="fun-item" data-category="conferences">
     <a class="fun-card" href="/assets/img/for_fun/34_Economic_forum.jpg" target="_blank" rel="noopener">
