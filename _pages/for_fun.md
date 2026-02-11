@@ -242,7 +242,7 @@ p.page-description {
   <!-- Conferences -->
   <div class="fun-item" data-category="conferences">
     <a class="fun-card" href="/assets/img/for_fun/MIT_visit.png" target="_blank" rel="noopener">
-      <img class="fun-img" src="/assets/img/for_fun/MIT_visit.png" alt="MIT visit">
+      <img class="fun-img" src="/assets/img/for_fun/MIT_visit.png" alt="Natalia Sikora MIT visit">
       <div class="fun-meta">
         <p class="fun-title">MIT visit</p>
         <p class="fun-caption">Thank you for the invite!</p>
@@ -252,7 +252,7 @@ p.page-description {
 
   <div class="fun-item" data-category="conferences">
     <a class="fun-card" href="/assets/img/for_fun/conference_drug_discovery.png" target="_blank" rel="noopener">
-      <img class="fun-img" src="/assets/img/for_fun/conference_drug_discovery.png" alt="Conference: drug discovery">
+      <img class="fun-img" src="/assets/img/for_fun/conference_drug_discovery.png" alt="Natalia Sikora Conference: drug discovery">
       <div class="fun-meta">
         <p class="fun-title">Presenting my drug discovery project</p>
         <p class="fun-caption">AI for a better future</p>
@@ -262,7 +262,7 @@ p.page-description {
 
   <div class="fun-item" data-category="conferences">
     <a class="fun-card" href="/assets/img/for_fun/34_Economic_forum.jpg" target="_blank" rel="noopener">
-      <img class="fun-img" src="/assets/img/for_fun/34_Economic_forum.jpg" alt="Economic forum">
+      <img class="fun-img" src="/assets/img/for_fun/34_Economic_forum.jpg" alt="Natalia Sikora Economic forum">
       <div class="fun-meta">
         <p class="fun-title">Economic forum panellist</p>
         <p class="fun-caption">Great conversations with fellow experts</p>
