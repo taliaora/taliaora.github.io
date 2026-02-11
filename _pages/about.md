@@ -5,9 +5,10 @@ permalink: /
 subtitle: Learning With Challenges | Understanding Through Data
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Natalia_Sikora_Profile_Picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Natalia Sikora </p>
     <p>Based in:       </p>
     <p>London, UK        </p>
     <p> ___________________________</p>
