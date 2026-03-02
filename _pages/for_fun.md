@@ -275,7 +275,7 @@ p.page-description {
       <img class="fun-img" src="/assets/img/for_fun/Natalia_Sikora_Hackathon_Winner.jpeg" alt="Natalia Sikora AI Hackathon Winner">
       <div class="fun-meta">
         <p class="fun-title">My Team Won Berlin Bio x AI Hackathon 2026 </p>
-        <p class="fun-caption"> We won in all cathegories. </p>
+        <p class="fun-caption"> We won in all categories. </p>
       </div>
     </a>
   </div>
