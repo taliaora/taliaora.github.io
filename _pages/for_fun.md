@@ -270,6 +270,16 @@ p.page-description {
     </a>
   </div>
 
+  <div class="fun-item" data-category="conferences">
+    <a class="fun-card" href="/assets/img/for_fun/Natalia_Sikora_Hackathon_Winner.jpeg" target="_blank" rel="noopener">
+      <img class="fun-img" src="/assets/img/for_fun/Natalia_Sikora_Hackathon_Winner.jpeg" alt="Natalia Sikora AI Hackathon Winner">
+      <div class="fun-meta">
+        <p class="fun-title">My Team Won Berlin Bio x AI Hackathon 2026 </p>
+        <p class="fun-caption"> We won in all cathegories. </p>
+      </div>
+    </a>
+  </div>
+
 <div class="fun-item" data-category="conferences">
   <a class="fun-card" 
      href="https://www.linkedin.com/posts/natalia-sikora-190902177_one-of-the-aspects-of-professional-life-i-activity-7369799712381497345-dLJN"
