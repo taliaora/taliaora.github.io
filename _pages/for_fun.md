@@ -181,7 +181,7 @@ p.page-description {
 
   <div class="fun-item" data-category="conferences">
     <a class="fun-card" href="/assets/img/for_fun/gala_stypendialna.jpg" target="_blank" rel="noopener">
-      <img class="fun-img" src="/assets/img/for_fun/gala_stypendialna.jpg" alt="Top 10 Young Professionals of Polish Descent">
+      <img class="fun-img" src="/assets/img/for_fun/gala_stypendialna.jpg" alt="Natalia Sikora Top 10 Young Professionals of Polish Descent">
       <div class="fun-meta">
         <p class="fun-title">Top 10 Young Professionals of Polish Descent</p>
         <p class="fun-caption">Award ceremony.</p>
@@ -191,7 +191,7 @@ p.page-description {
 
   <div class="fun-item" data-category="conferences">
     <a class="fun-card" href="/assets/img/for_fun/EurIPS.jpg" target="_blank" rel="noopener">
-      <img class="fun-img" src="/assets/img/for_fun/EurIPS.jpg" alt="EurIPS">
+      <img class="fun-img" src="/assets/img/for_fun/EurIPS.jpg" alt="Natalia Sikora EurIPS">
       <div class="fun-meta">
         <p class="fun-title">EurIPS</p>
         <p class="fun-caption">Presenting my research.</p>
@@ -242,7 +242,7 @@ p.page-description {
   <!-- Conferences -->
   <div class="fun-item" data-category="conferences">
     <a class="fun-card" href="/assets/img/for_fun/MIT_visit.png" target="_blank" rel="noopener">
-      <img class="fun-img" src="/assets/img/for_fun/MIT_visit.png" alt="Natalia Sikora MIT visit">
+      <img class="fun-img" src="/assets/img/for_fun/MIT_visit.png" alt="Natalia Sikora MIT visit Oxford">
       <div class="fun-meta">
         <p class="fun-title">MIT visit</p>
         <p class="fun-caption">Thank you for the invite!</p>
@@ -287,7 +287,7 @@ p.page-description {
      rel="noopener">
      
     <img class="fun-img" src="/assets/img/for_fun/34_Economic_forum.jpg" 
-         alt="Natalia Sikora LinkedIn post about Economic Forum">
+         alt="Natalia Sikora AI Oxford Economic Forum">
 
     <div class="fun-meta">
       <p class="fun-title">Economic Forum on LinkedIn</p>
