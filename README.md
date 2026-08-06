@@ -33,7 +33,7 @@ Code based on **al-folio** academic webpage.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=taliaora&show_icons=true&theme=radical)
 -->
 </div>
-Hi! I am **Natalia Sikora**! I'm a PhD Candidate (defended, working on corrections) and a postdoctoral fellow specialising in bioinformatics, AI in medical applications, xAI, and multimodal data integration. As a hobby, I enjoy playing with finance data (hello there, fellow investors!), data analytics, and visualisations. 
+Hi! I am **Natalia Sikora**! A start-up co-founder, PhD, and an ex-postdoctoral fellow specialising in bioinformatics, AI in medical applications, xAI, and multimodal data integration. As a hobby, I enjoy playing with finance data (hello there, fellow investors!), data analytics, and visualisations. 
 
 
 ## 🦉📚 Recent Publications
