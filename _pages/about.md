@@ -8,7 +8,7 @@ profile:
   image: Natalia_Sikora_Profile_Picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Natalia Sikora </p>
+    <p>Natalia Sikora, PhD </p>
     <p>Based in:       </p>
     <p>London, UK        </p>
     <p> ___________________________</p>
@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Natalia M. Sikora, an EPSRC Postdoctoral Fellow in AI, a freelance ML / data scientist, and a PhD candidate in the Department of Physics (thesis defended, working on corrections). I recently finished my PhD project as a member of an [AIMLAC](https://cdt-aimlac.org/) programme (Artificial Intelligence, Machine Learning and Advanced Computing), focusing on cancer research. During the past few years, I specialised in multimodal data fusion methods, Explainable artificial intelligence (XAI), multiomics, signal preprocessing approaches, statistics, and bioinformatics.
+Hi! I'm Natalia M. Sikora, PhD, a start-up co-founder, an ex-EPSRC Postdoctoral Fellow in AI, and a freelance ML / data scientist. I recently finished my PhD project as a member of an [AIMLAC](https://cdt-aimlac.org/) programme (Artificial Intelligence, Machine Learning and Advanced Computing), focusing on cancer research. During the past few years, I specialised in multimodal data fusion methods, Explainable artificial intelligence (XAI), multiomics, signal preprocessing approaches, statistics, and bioinformatics.
 
 I graduated from a University of Nottingham in 2020, with a BSc Hons in Biochemistry. Both, my PhD and my undergraduate degree provide me with a unique skillset, with a deep understanding of computational biology and AI applications in medicine. 
 
